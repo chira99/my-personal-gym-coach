@@ -1,0 +1,606 @@
+{
+  "meta": {
+    "athlete": "Chirantha",
+    "goal": "Build muscle (hypertrophy)",
+    "level": "Intermediate — returning after a short break",
+    "phase": "Phase 1 — Home Gym",
+    "phaseNote": "EZ curl bar + 2 adjustable dumbbells (max 14 kg/hand). Light load means we buy stimulus with tempo, pauses, unilateral work and short rest — not with weight on the bar.",
+    "phaseEnds": "2026-09-11",
+    "nextPhase": "Phase 2 — University Gym (Ireland), full barbell + machine access",
+    "sessionTime": "21:00",
+    "sessionWindow": "17:30–19:00",
+    "duration": "75–90 min",
+    "trainingDays": ["Mon", "Tue", "Thu", "Fri"],
+    "restDays": ["Wed", "Sat", "Sun"],
+    "restDay": "Wednesday",
+    "generated": "2026-08-20",
+    "week": 1,
+    "weekLabel": "Week 1 — Reintroduction (leave 2–3 reps in reserve, calibrate loads)"
+  },
+
+  "rotation": ["A", "B", "C", "D"],
+
+  "today": {
+    "date": "2026-08-20",
+    "dayName": "Thursday",
+    "sessionId": "A",
+    "isRest": false
+  },
+
+  "sessions": {
+    "A": {
+      "id": "A",
+      "name": "Push",
+      "focus": "Chest · Shoulders · Triceps",
+      "accent": "push",
+      "summary": "Opening session of the cycle. Week 1 is calibration — find loads where the last 2 reps are hard but clean, and stop there.",
+      "warmup": [
+        "5 min brisk walk or skipping to raise core temperature",
+        "Arm circles — 15 forward, 15 backward",
+        "Band or towel shoulder dislocates — 15 reps",
+        "Scapular push-ups — 15 reps",
+        "Push-ups — 10 easy reps to prime the pattern"
+      ],
+      "cooldown": [
+        "Doorway pec stretch — 45 s per side",
+        "Cross-body shoulder stretch — 30 s per side",
+        "Overhead triceps stretch — 30 s per side",
+        "5 min easy walk, nasal breathing"
+      ],
+      "exercises": [
+        {
+          "name": "DB Floor Press",
+          "sets": "4",
+          "reps": "10–14",
+          "rest": "90 s",
+          "tempo": "3-1-1",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Chest", "Front delts", "Triceps"],
+          "how": "Lie on your back on the floor, knees bent, feet planted. Press the dumbbells from chest level to lockout directly over your shoulders, then lower under control until your triceps touch the floor.",
+          "cues": [
+            "Pause for a full second when your triceps touch — no bouncing off the floor",
+            "Keep your elbows at roughly 45° from your torso, not flared to 90°",
+            "Squeeze your chest hard at the top rather than just locking the elbows",
+            "The floor limits your range of motion, which protects the shoulder — that's a feature, not a compromise"
+          ],
+          "swap": "If you have a bench, do a DB Bench Press instead for the extra stretch at the bottom."
+        },
+        {
+          "name": "DB Squeeze Press",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "2-1-2",
+          "load": "Start 8 kg/hand",
+          "muscles": ["Inner chest", "Front delts"],
+          "how": "Same floor press position, but press the two dumbbells hard together throughout the entire set. The inward pressure is the point — the vertical movement is almost secondary.",
+          "cues": [
+            "Use a neutral grip, palms facing each other, dumbbells touching",
+            "Drive them into each other the whole set — if the pressure lapses, the exercise stops working",
+            "This is where light dumbbells shine: constant tension replaces heavy load"
+          ]
+        },
+        {
+          "name": "Standing DB Overhead Press",
+          "sets": "4",
+          "reps": "10–12",
+          "rest": "90 s",
+          "tempo": "2-0-2",
+          "load": "Start 9 kg/hand",
+          "muscles": ["Front delts", "Side delts", "Triceps", "Core"],
+          "how": "Stand tall, dumbbells at shoulder height, palms forward. Press overhead until your arms lock out with the weights slightly behind your ears, then lower under control to shoulder height.",
+          "cues": [
+            "Squeeze your glutes and brace your abs — this stops your lower back from arching",
+            "Your head travels slightly forward as the weights pass it, then back under them at lockout",
+            "Don't let the dumbbells drift forward — they should stack over your mid-foot at the top"
+          ]
+        },
+        {
+          "name": "DB Lateral Raise",
+          "sets": "4",
+          "reps": "15–20",
+          "rest": "60 s",
+          "tempo": "1-0-3",
+          "load": "Start 5 kg/hand",
+          "muscles": ["Side delts"],
+          "how": "Stand with dumbbells at your sides, a slight bend in the elbows. Raise them out to the sides until your hands are level with your shoulders, then lower slowly over 3 seconds.",
+          "cues": [
+            "Lead with your elbows, not your hands",
+            "Go light — this is the one lift where ego costs you the most",
+            "Tilt your pinkies very slightly upward, as if pouring water from a jug",
+            "The 3-second lowering is doing most of the work here"
+          ]
+        },
+        {
+          "name": "EZ Bar Skullcrusher",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "3-1-1",
+          "load": "Start 15 kg total",
+          "muscles": ["Triceps (long head)"],
+          "how": "Lie on the floor holding the EZ bar with a narrow grip, arms extended over your chest. Bend at the elbows to lower the bar toward your forehead, then extend back to the start.",
+          "cues": [
+            "Keep your upper arms angled slightly back toward your head, not perfectly vertical — this keeps tension on the triceps at lockout",
+            "Only the forearms move; the elbows stay put",
+            "If your elbows ache, widen the grip or reduce the load"
+          ]
+        },
+        {
+          "name": "DB Overhead Triceps Extension",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "60 s",
+          "tempo": "3-1-1",
+          "load": "Start 12 kg (one DB, both hands)",
+          "muscles": ["Triceps (long head)"],
+          "how": "Hold one dumbbell with both hands overhead, cupping the top plate. Lower it behind your head until you feel a deep stretch in the triceps, then press back up.",
+          "cues": [
+            "Keep your elbows tucked in and pointing forward — they'll want to flare",
+            "The stretch at the bottom is the growth stimulus, so don't cut it short",
+            "Ribs down, don't let your lower back arch"
+          ]
+        },
+        {
+          "name": "Push-Up Finisher",
+          "sets": "2",
+          "reps": "To failure",
+          "rest": "60 s",
+          "tempo": "Controlled",
+          "load": "Bodyweight",
+          "muscles": ["Chest", "Triceps", "Core"],
+          "how": "Standard push-ups taken to technical failure — stop the set when your form breaks down, not when you physically cannot move.",
+          "cues": [
+            "Body in one straight line from head to heels",
+            "If you hit 25+ reps easily, elevate your feet on a chair",
+            "This is the one place today you should genuinely empty the tank"
+          ]
+        }
+      ]
+    },
+
+    "B": {
+      "id": "B",
+      "name": "Legs",
+      "focus": "Quads · Hamstrings · Glutes · Calves",
+      "accent": "legs",
+      "summary": "With 14 kg dumbbells, single-leg work is your best friend — it effectively doubles the load per limb.",
+      "warmup": [
+        "5 min brisk walk or light cycling",
+        "Bodyweight squats — 20 reps",
+        "Walking lunges — 10 per leg",
+        "Leg swings — 15 front-to-back and 15 side-to-side per leg",
+        "Glute bridges — 20 reps"
+      ],
+      "cooldown": [
+        "Couch stretch (quads/hip flexors) — 60 s per side",
+        "Standing hamstring stretch — 45 s per side",
+        "Figure-4 glute stretch — 45 s per side",
+        "Calf stretch against a wall — 30 s per side"
+      ],
+      "exercises": [
+        {
+          "name": "DB Goblet Squat",
+          "sets": "4",
+          "reps": "12–15",
+          "rest": "90 s",
+          "tempo": "3-1-1",
+          "load": "Start 14 kg",
+          "muscles": ["Quads", "Glutes", "Core"],
+          "how": "Hold one dumbbell vertically against your chest, cupping the top head. Squat down until your hips drop below your knees, pause, then drive up through mid-foot.",
+          "cues": [
+            "Elbows track inside your knees at the bottom",
+            "Chest stays tall — the dumbbell acts as a counterweight that helps you stay upright",
+            "Full second pause in the hole, no bouncing",
+            "Push your knees out over your toes as you descend"
+          ]
+        },
+        {
+          "name": "DB Bulgarian Split Squat",
+          "sets": "3",
+          "reps": "10–12 / leg",
+          "rest": "90 s",
+          "tempo": "3-1-1",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Quads", "Glutes"],
+          "how": "Stand about a metre in front of a chair or bench, rest the top of your rear foot on it. Lower straight down until your front thigh is parallel to the floor, then drive back up through the front heel.",
+          "cues": [
+            "Almost all the weight belongs on the front leg — the back foot is for balance only",
+            "Lean your torso forward slightly to bias the glutes, stay upright to bias the quads",
+            "This will humble you even with light dumbbells. That's the point.",
+            "Set your stance so your front shin stays roughly vertical at the bottom"
+          ]
+        },
+        {
+          "name": "DB Romanian Deadlift",
+          "sets": "4",
+          "reps": "12–15",
+          "rest": "90 s",
+          "tempo": "3-1-1",
+          "load": "Start 14 kg/hand",
+          "muscles": ["Hamstrings", "Glutes", "Lower back"],
+          "how": "Stand holding dumbbells in front of your thighs. With a soft bend in the knees, push your hips straight back and lower the weights along your legs until you feel a strong hamstring stretch, then drive your hips forward to stand.",
+          "cues": [
+            "This is a hip hinge, not a squat — your knees barely move",
+            "Keep the dumbbells in contact with your legs the whole way down",
+            "Stop lowering when your hamstrings run out of stretch, not when the weights reach the floor",
+            "Neutral spine throughout — no rounding at the bottom"
+          ]
+        },
+        {
+          "name": "DB Reverse Lunge",
+          "sets": "3",
+          "reps": "12 / leg",
+          "rest": "75 s",
+          "tempo": "2-0-1",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Quads", "Glutes", "Hamstrings"],
+          "how": "Stand tall with dumbbells at your sides. Step one foot back and lower until both knees are at about 90°, then drive through the front heel to return to standing.",
+          "cues": [
+            "Stepping backward rather than forward is easier on the knees",
+            "Complete all reps on one leg before switching, for a better pump",
+            "Keep your torso upright and your front knee tracking over your toes"
+          ]
+        },
+        {
+          "name": "DB Single-Leg Calf Raise",
+          "sets": "4",
+          "reps": "15–20 / leg",
+          "rest": "45 s",
+          "tempo": "1-1-3",
+          "load": "Start 14 kg (one DB)",
+          "muscles": ["Calves"],
+          "how": "Stand on one foot on the edge of a step or a thick book, holding a dumbbell in the same-side hand. Rise as high onto the ball of your foot as you can, squeeze, then lower slowly until you feel a deep stretch.",
+          "cues": [
+            "Full range of motion — all the way up, all the way down",
+            "Hold the top squeeze for a full second",
+            "Calves respond to volume and stretch, so don't rush the lowering phase"
+          ]
+        },
+        {
+          "name": "Nordic Curl Negative",
+          "sets": "3",
+          "reps": "6–8",
+          "rest": "90 s",
+          "tempo": "5 s lower",
+          "load": "Bodyweight",
+          "muscles": ["Hamstrings"],
+          "how": "Kneel on something padded with your ankles anchored under a heavy piece of furniture. Keeping your body straight from knees to head, lower yourself forward as slowly as you can, then push off the floor with your hands to return.",
+          "cues": [
+            "Hips stay extended — don't let them hinge, or the exercise disappears",
+            "Aim to control the descent for 5 seconds; catch yourself with your hands",
+            "Brutally effective and one of the few ways to load hamstrings hard without heavy weight",
+            "If ankles aren't anchorable, substitute a DB hamstring curl lying face down"
+          ],
+          "swap": "No anchor point? Do a slow DB leg curl lying prone, squeezing the dumbbell between your feet."
+        },
+        {
+          "name": "Lying Leg Raise",
+          "sets": "3",
+          "reps": "15",
+          "rest": "60 s",
+          "tempo": "2-0-3",
+          "load": "Bodyweight",
+          "muscles": ["Lower abs", "Hip flexors"],
+          "how": "Lie on your back, hands under your glutes for support. Raise your legs to vertical with a slight knee bend, then lower them slowly without letting your lower back peel off the floor.",
+          "cues": [
+            "Press your lower back into the floor for the entire set",
+            "Stop lowering at the point where your back would start to arch — that's your range",
+            "Exhale as you raise, inhale as you lower"
+          ]
+        }
+      ]
+    },
+
+    "C": {
+      "id": "C",
+      "name": "Pull",
+      "focus": "Back · Biceps · Rear Delts",
+      "accent": "pull",
+      "summary": "Rowing volume is the priority. Chase the stretch at the bottom and a hard squeeze at the top of every rep.",
+      "warmup": [
+        "5 min brisk walk or skipping",
+        "Band pull-aparts — 20 reps",
+        "Cat–cow — 10 slow cycles",
+        "Scapular retractions hanging or prone — 15 reps",
+        "Light DB rows — 15 easy reps"
+      ],
+      "cooldown": [
+        "Child's pose with side reach — 45 s per side",
+        "Lat stretch on a doorframe — 45 s per side",
+        "Biceps stretch against a wall — 30 s per side",
+        "Thoracic rotation — 10 per side"
+      ],
+      "exercises": [
+        {
+          "name": "DB Single-Arm Row",
+          "sets": "4",
+          "reps": "10–12 / arm",
+          "rest": "75 s",
+          "tempo": "2-1-3",
+          "load": "Start 14 kg",
+          "muscles": ["Lats", "Mid-back", "Biceps"],
+          "how": "Place one hand and the same-side knee on a chair or bench, back flat and parallel to the floor. Row the dumbbell from a full stretch up toward your hip, then lower slowly to a full stretch.",
+          "cues": [
+            "Pull toward your hip pocket, not straight up to your armpit",
+            "Let your shoulder blade travel forward at the bottom for a genuine lat stretch",
+            "Squeeze for a full second at the top before lowering",
+            "Keep your hips square to the floor — resist the urge to twist"
+          ]
+        },
+        {
+          "name": "DB Bent-Over Row",
+          "sets": "4",
+          "reps": "12–15",
+          "rest": "90 s",
+          "tempo": "2-1-2",
+          "load": "Start 12 kg/hand",
+          "muscles": ["Mid-back", "Lats", "Rear delts"],
+          "how": "Hinge at the hips until your torso is about 45° from the floor, dumbbells hanging beneath you. Row both dumbbells to your ribcage, elbows tracking close to your body, then lower under control.",
+          "cues": [
+            "Brace your core hard and keep a neutral spine — no rounding",
+            "Drive your elbows back and past your torso",
+            "Neutral grip (palms facing in) is easier on the shoulders here"
+          ]
+        },
+        {
+          "name": "DB Reverse Fly",
+          "sets": "3",
+          "reps": "15–20",
+          "rest": "60 s",
+          "tempo": "1-1-3",
+          "load": "Start 5 kg/hand",
+          "muscles": ["Rear delts", "Upper back"],
+          "how": "Hinge forward at the hips, dumbbells hanging below you with a slight elbow bend. Raise them out to the sides in an arc until level with your shoulders, then lower slowly.",
+          "cues": [
+            "Go light — the rear delts are small and easily overpowered by the traps",
+            "Think about pulling your hands apart rather than lifting them up",
+            "Rear delts are the most commonly neglected muscle for people who train chest hard"
+          ]
+        },
+        {
+          "name": "DB Pullover",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "3-1-1",
+          "load": "Start 12 kg (one DB)",
+          "muscles": ["Lats", "Chest", "Serratus"],
+          "how": "Lie on your back on the floor holding one dumbbell over your chest with both hands. Keeping a slight elbow bend, lower it back over your head until you feel a deep lat stretch, then pull it back over your chest.",
+          "cues": [
+            "Keep your ribs down and core braced so the movement comes from the shoulders, not the spine",
+            "Feel the stretch through your lats and along your ribcage",
+            "Move slowly — momentum makes this both useless and risky"
+          ]
+        },
+        {
+          "name": "EZ Bar Curl",
+          "sets": "4",
+          "reps": "10–12",
+          "rest": "75 s",
+          "tempo": "2-1-3",
+          "load": "Start 15 kg total",
+          "muscles": ["Biceps"],
+          "how": "Stand holding the EZ bar on the inner angled grips, arms extended. Curl to shoulder height without swinging, squeeze, then lower over 3 seconds to full extension.",
+          "cues": [
+            "Elbows pinned at your sides — they shouldn't drift forward",
+            "Full extension at the bottom of every rep; half reps build half biceps",
+            "The angled grip is kinder to the wrists than a straight bar"
+          ]
+        },
+        {
+          "name": "DB Hammer Curl",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "60 s",
+          "tempo": "2-1-3",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Brachialis", "Forearms", "Biceps"],
+          "how": "Stand with dumbbells at your sides, palms facing in. Curl them up keeping that neutral grip throughout, then lower slowly.",
+          "cues": [
+            "The neutral grip targets the brachialis, which sits under the biceps and pushes it up as it grows",
+            "Alternate arms or do both together — both work",
+            "No swinging; if you need momentum, the weight is too heavy"
+          ]
+        },
+        {
+          "name": "DB Shrug",
+          "sets": "3",
+          "reps": "15–20",
+          "rest": "60 s",
+          "tempo": "1-2-2",
+          "load": "Start 14 kg/hand",
+          "muscles": ["Traps"],
+          "how": "Stand tall holding dumbbells at your sides. Shrug your shoulders straight up toward your ears, hold the squeeze for two seconds, then lower fully.",
+          "cues": [
+            "Straight up and down — rolling your shoulders adds nothing and irritates the joint",
+            "Hold the top for a genuine two-count",
+            "Let the weights pull your shoulders all the way down at the bottom for the stretch"
+          ]
+        }
+      ]
+    },
+
+    "D": {
+      "id": "D",
+      "name": "Full Body Pump",
+      "focus": "Whole body · Core · Conditioning",
+      "accent": "full",
+      "summary": "Shorter rest, higher reps, and a conditioning finish. This is the session that ties the week together and pushes work capacity.",
+      "warmup": [
+        "5 min skipping or brisk walk",
+        "World's greatest stretch — 5 per side",
+        "Bodyweight squats — 15 reps",
+        "Push-ups — 10 reps",
+        "Band pull-aparts — 15 reps"
+      ],
+      "cooldown": [
+        "Full-body flow: forward fold, deep squat hold, cobra — 2 rounds",
+        "Hip flexor stretch — 45 s per side",
+        "Shoulder and lat stretch — 30 s per side",
+        "5 min easy walk with slow nasal breathing"
+      ],
+      "exercises": [
+        {
+          "name": "DB Thruster",
+          "sets": "3",
+          "reps": "12",
+          "rest": "75 s",
+          "tempo": "2-0-1",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Quads", "Glutes", "Shoulders", "Core"],
+          "how": "Hold dumbbells at shoulder height. Squat to depth, then drive up explosively and use that momentum to press the weights overhead in one continuous motion.",
+          "cues": [
+            "One fluid movement — the squat and press shouldn't feel like two separate exercises",
+            "Elbows stay high through the squat",
+            "This spikes your heart rate fast, which is exactly what it's here for"
+          ]
+        },
+        {
+          "name": "DB Renegade Row",
+          "sets": "3",
+          "reps": "10 / side",
+          "rest": "75 s",
+          "tempo": "2-1-2",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Back", "Core", "Shoulders"],
+          "how": "Start in a push-up position gripping the dumbbells, feet wide for stability. Row one dumbbell to your ribs while resisting any rotation, lower it, then repeat on the other side.",
+          "cues": [
+            "Widen your feet — the wider your base, the less you'll rotate",
+            "The real work is the anti-rotation, not the row itself",
+            "Keep your hips level; if they're twisting, go lighter"
+          ]
+        },
+        {
+          "name": "DB Floor Press",
+          "sets": "3",
+          "reps": "15",
+          "rest": "60 s",
+          "tempo": "2-0-2",
+          "load": "Start 10 kg/hand",
+          "muscles": ["Chest", "Triceps"],
+          "how": "As on Push day, but lighter and faster — chasing a pump rather than maximum tension.",
+          "cues": [
+            "Keep the reps flowing with a brief touch at the bottom",
+            "Shorter rest today; the goal is metabolic stress"
+          ]
+        },
+        {
+          "name": "DB Goblet Squat",
+          "sets": "3",
+          "reps": "15",
+          "rest": "60 s",
+          "tempo": "2-0-2",
+          "load": "Start 12 kg",
+          "muscles": ["Quads", "Glutes"],
+          "how": "Same as Legs day, run lighter and at a steadier rhythm for volume.",
+          "cues": [
+            "Stay tall through the torso even as fatigue builds",
+            "Keep the depth honest — fatigue tends to shorten range first"
+          ]
+        },
+        {
+          "name": "DB Lateral Raise",
+          "sets": "3",
+          "reps": "20",
+          "rest": "45 s",
+          "tempo": "1-0-2",
+          "load": "Start 4 kg/hand",
+          "muscles": ["Side delts"],
+          "how": "High-rep burnout sets. Go lighter than you think you need to.",
+          "cues": [
+            "The burn should be considerable by rep 15",
+            "Partial reps at the end of a set are fine here"
+          ]
+        },
+        {
+          "name": "EZ Bar 21s",
+          "sets": "3",
+          "reps": "21 (7+7+7)",
+          "rest": "75 s",
+          "tempo": "Controlled",
+          "load": "Start 10 kg total",
+          "muscles": ["Biceps"],
+          "how": "Seven reps from full extension to halfway, then seven from halfway to the top, then seven full-range reps — all without setting the bar down.",
+          "cues": [
+            "Use noticeably less weight than your normal curl; 21 reps is a long set",
+            "Don't rest between the three blocks — that's what makes it work",
+            "Elbows stay pinned throughout"
+          ]
+        },
+        {
+          "name": "Core & Conditioning Finisher",
+          "sets": "3 rounds",
+          "reps": "See below",
+          "rest": "60 s between rounds",
+          "tempo": "Steady",
+          "load": "Bodyweight",
+          "muscles": ["Core", "Cardio"],
+          "how": "Three rounds of: 40 s plank, 20 mountain climbers per side, 15 Russian twists per side, 30 s high knees. Rest 60 s between rounds.",
+          "cues": [
+            "Keep your hips level in the plank — no sagging or piking",
+            "Mountain climbers stay controlled; speed is not the goal",
+            "Finish the session properly winded but not wrecked"
+          ]
+        }
+      ]
+    },
+
+    "REST": {
+      "id": "REST",
+      "name": "Rest Day",
+      "focus": "Recovery",
+      "accent": "rest",
+      "summary": "Muscle is built between sessions, not during them. Today's job is to recover well.",
+      "warmup": [],
+      "cooldown": [],
+      "exercises": [
+        {
+          "name": "Optional: Easy Walk",
+          "sets": "1",
+          "reps": "20–30 min",
+          "rest": "—",
+          "tempo": "Easy",
+          "load": "None",
+          "muscles": ["Recovery"],
+          "how": "A relaxed walk outdoors. Conversational pace, nothing that raises your breathing much.",
+          "cues": [
+            "Light movement clears soreness faster than complete stillness",
+            "Get some daylight if you can — it helps your sleep tonight"
+          ]
+        },
+        {
+          "name": "Optional: Mobility Flow",
+          "sets": "1",
+          "reps": "10–15 min",
+          "rest": "—",
+          "tempo": "Slow",
+          "load": "None",
+          "muscles": ["Mobility"],
+          "how": "Move gently through: cat–cow, world's greatest stretch, deep squat hold, couch stretch, thoracic rotations, child's pose.",
+          "cues": [
+            "Breathe into each position rather than forcing depth",
+            "Spend longer on whatever felt tightest this week"
+          ]
+        },
+        {
+          "name": "Priority: Sleep & Protein",
+          "sets": "—",
+          "reps": "—",
+          "rest": "—",
+          "tempo": "—",
+          "load": "—",
+          "muscles": ["Everything"],
+          "how": "Aim for 7–9 hours of sleep and roughly 1.6–2.2 g of protein per kg of bodyweight across the day.",
+          "cues": [
+            "Sleep is the single largest lever on muscle growth that isn't training itself",
+            "Spread protein across 3–4 meals rather than loading it into one",
+            "Stay hydrated — even mild dehydration reduces performance noticeably"
+          ]
+        }
+      ]
+    }
+  },
+
+  "log": []
+}
