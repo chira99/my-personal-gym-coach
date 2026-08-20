@@ -1,13 +1,7 @@
 # The routine prompt
 
-Paste everything between the `---` markers as the routine's prompt.
-
-**Before you do**, replace the two placeholders:
-
-- `<REPO_PATH>` → absolute path to your local clone, e.g. `/Users/chira/code/my-personal-gym-coach`
-- `<PAGES_URL>` → e.g. `https://chira99.github.io/my-personal-gym-coach/`
-
-Everything else is filled in already.
+- `<REPO_PATH>` →   `D:\WORK\Gym Coach\gym-coach`
+- `<PAGES_URL>` →  `https://chira99.github.io/my-personal-gym-coach/`
 
 ---
 
@@ -106,7 +100,7 @@ STEP 6 — Publish, in this order:
       1. `cd <REPO_PATH> && git pull --rebase` — always pull first; he may have edited on another machine.
       2. Rewrite `data/program.json` for tomorrow's session. Read `claude-code/SCHEMA.md` in that repo for the exact contract and follow it precisely. Update `today` (date, dayName, sessionId, isRest), update the relevant entry in `sessions`, and refresh `meta` (week number, weekLabel, sessionTime to the slot you booked, phase if it changed).
       3. Validate before committing: `python3 -c "import json;d=json.load(open('data/program.json'));assert d['today']['sessionId'] in d['sessions'];print('ok',d['today'])"`. If it fails, fix the JSON and re-run — never commit a file that fails this check.
-      4. `git add data/program.json && git commit -m "Workout for <YYYY-MM-DD>: <Session Name>" && git push`
+      4. `git add data/program.json && git commit -m "Workout for <YYYY-MM-DD>: <Session Name>" && git push origin HEAD:main`
       5. If the push fails (auth, network, conflict), do NOT retry blindly. Report the exact error in your summary. The calendar and Todoist entries are already written, so he still has the full workout — the app is just stale.
      Never edit `index.html`. `data/program.json` is the only file this routine touches.
 
