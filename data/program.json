@@ -7,7 +7,7 @@
     "phaseNote": "EZ curl bar + 2 adjustable dumbbells (max 14 kg/hand). Light load means we buy stimulus with tempo, pauses, unilateral work and short rest — not with weight on the bar.",
     "phaseEnds": "2026-09-11",
     "nextPhase": "Phase 2 — University Gym (Ireland), full barbell + machine access",
-    "sessionTime": "21:00",
+    "sessionTime": "17:30",
     "sessionWindow": "17:30–19:00",
     "duration": "75–90 min",
     "trainingDays": ["Mon", "Tue", "Thu", "Fri"],
@@ -21,9 +21,9 @@
   "rotation": ["A", "B", "C", "D"],
 
   "today": {
-    "date": "2026-08-20",
-    "dayName": "Thursday",
-    "sessionId": "A",
+    "date": "2026-08-21",
+    "dayName": "Friday",
+    "sessionId": "B",
     "isRest": false
   },
 
