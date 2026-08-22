@@ -13,7 +13,7 @@
     "trainingDays": ["Mon", "Tue", "Thu", "Fri"],
     "restDays": ["Wed", "Sat", "Sun"],
     "restDay": "Wednesday",
-    "generated": "2026-08-21",
+    "generated": "2026-08-22",
     "week": 1,
     "weekLabel": "Week 1 — Reintroduction (leave 2–3 reps in reserve, calibrate loads)"
   },
@@ -21,8 +21,8 @@
   "rotation": ["A", "B", "C", "D"],
 
   "today": {
-    "date": "2026-08-22",
-    "dayName": "Saturday",
+    "date": "2026-08-23",
+    "dayName": "Sunday",
     "sessionId": "REST",
     "isRest": true
   },
