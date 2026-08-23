@@ -13,18 +13,18 @@
     "trainingDays": ["Mon", "Tue", "Thu", "Fri"],
     "restDays": ["Wed", "Sat", "Sun"],
     "restDay": "Wednesday",
-    "generated": "2026-08-22",
-    "week": 1,
-    "weekLabel": "Week 1 — Reintroduction (leave 2–3 reps in reserve, calibrate loads)"
+    "generated": "2026-08-23",
+    "week": 2,
+    "weekLabel": "Week 2 — Reintroduction continues (first Pull day, still calibrating loads)"
   },
 
   "rotation": ["A", "B", "C", "D"],
 
   "today": {
-    "date": "2026-08-23",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-08-24",
+    "dayName": "Monday",
+    "sessionId": "C",
+    "isRest": false
   },
 
   "sessions": {
@@ -297,13 +297,13 @@
       "name": "Pull",
       "focus": "Back · Biceps · Rear Delts",
       "accent": "pull",
-      "summary": "Rowing volume is the priority. Chase the stretch at the bottom and a hard squeeze at the top of every rep.",
+      "summary": "First real Pull day of the program — back, biceps and rear delts have had zero direct work so far, so this session leans hard into all three. Friday's log mentioned the adjustable dumbbells weren't at home; this version is built around the EZ bar and bodyweight rowing patterns so it still works if that's still the case — swap back to dumbbells wherever noted if they've turned up.",
       "warmup": [
         "5 min brisk walk or skipping",
-        "Band pull-aparts — 20 reps",
+        "Band or towel pull-aparts — 20 reps",
         "Cat–cow — 10 slow cycles",
-        "Scapular retractions hanging or prone — 15 reps",
-        "Light DB rows — 15 easy reps"
+        "Scapular retractions (hanging from a door frame, or standing pulling elbows back) — 15 reps",
+        "Light EZ bar or towel rows — 15 easy reps"
       ],
       "cooldown": [
         "Child's pose with side reach — 45 s per side",
@@ -313,49 +313,53 @@
       ],
       "exercises": [
         {
-          "name": "DB Single-Arm Row",
+          "name": "EZ Bar Bent-Over Row",
           "sets": "4",
-          "reps": "10–12 / arm",
-          "rest": "75 s",
-          "tempo": "2-1-3",
-          "load": "Start 14 kg",
-          "muscles": ["Lats", "Mid-back", "Biceps"],
-          "how": "Place one hand and the same-side knee on a chair or bench, back flat and parallel to the floor. Row the dumbbell from a full stretch up toward your hip, then lower slowly to a full stretch.",
-          "cues": [
-            "Pull toward your hip pocket, not straight up to your armpit",
-            "Let your shoulder blade travel forward at the bottom for a genuine lat stretch",
-            "Squeeze for a full second at the top before lowering",
-            "Keep your hips square to the floor — resist the urge to twist"
-          ]
-        },
-        {
-          "name": "DB Bent-Over Row",
-          "sets": "4",
-          "reps": "12–15",
+          "reps": "10–12",
           "rest": "90 s",
           "tempo": "2-1-2",
-          "load": "Start 12 kg/hand",
-          "muscles": ["Mid-back", "Lats", "Rear delts"],
-          "how": "Hinge at the hips until your torso is about 45° from the floor, dumbbells hanging beneath you. Row both dumbbells to your ribcage, elbows tracking close to your body, then lower under control.",
+          "load": "Start 20 kg total (same bar as your RDLs — drop plates to a comfortable row weight)",
+          "muscles": ["Lats", "Mid-back", "Rear delts", "Biceps"],
+          "how": "Hinge at the hips until your torso is about 45° from the floor, EZ bar hanging beneath you with arms extended. Row the bar up to your lower ribcage, elbows driving back and up, then lower under control to full stretch.",
           "cues": [
-            "Brace your core hard and keep a neutral spine — no rounding",
-            "Drive your elbows back and past your torso",
-            "Neutral grip (palms facing in) is easier on the shoulders here"
-          ]
+            "Brace your core hard and keep a neutral spine — no rounding under the bar",
+            "Drive your elbows back past your torso rather than just bending the arms",
+            "Squeeze your shoulder blades together for a full second at the top",
+            "The angled grips keep your wrists comfortable through the row"
+          ],
+          "swap": "Dumbbells back? Do a DB Single-Arm Row instead — one hand and knee on a chair, row to your hip pocket, 10–12 reps/arm."
         },
         {
-          "name": "DB Reverse Fly",
+          "name": "Table Inverted Row",
+          "sets": "4",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "2-1-2",
+          "load": "Bodyweight — adjust foot position for difficulty",
+          "muscles": ["Lats", "Mid-back", "Biceps"],
+          "how": "Lie on your back under a sturdy table (or loop a towel around a solid anchor at chest height and grip both ends). Body straight, heels planted, pull your chest up toward the table edge or anchor, then lower under control.",
+          "cues": [
+            "The lower your body angle — feet further out, hips lower — the harder the pull",
+            "Squeeze your shoulder blades together at the top of every rep",
+            "Keep hips in line with shoulders — don't let them sag",
+            "Test the table's weight rating before loading it with a real pull"
+          ],
+          "swap": "Dumbbells back? Do a DB Bent-Over Row instead — both dumbbells to your ribcage, 12–15 reps."
+        },
+        {
+          "name": "Bodyweight Prone Y-Raise",
           "sets": "3",
           "reps": "15–20",
           "rest": "60 s",
-          "tempo": "1-1-3",
-          "load": "Start 5 kg/hand",
+          "tempo": "2-1-2",
+          "load": "Bodyweight (add light dumbbells once available)",
           "muscles": ["Rear delts", "Upper back"],
-          "how": "Hinge forward at the hips, dumbbells hanging below you with a slight elbow bend. Raise them out to the sides in an arc until level with your shoulders, then lower slowly.",
+          "how": "Lie face down on the floor or a bench, arms extended overhead in a wide \"Y\" shape, thumbs pointing up. Raise your arms a few inches off the ground, squeezing your shoulder blades down and together, then lower slowly.",
           "cues": [
-            "Go light — the rear delts are small and easily overpowered by the traps",
-            "Think about pulling your hands apart rather than lifting them up",
-            "Rear delts are the most commonly neglected muscle for people who train chest hard"
+            "Small range of motion — the squeeze matters more than how high you lift",
+            "Keep your neck neutral, don't crane your head up to help",
+            "Rear delts are the most commonly skipped muscle for anyone who trains chest — this fixes that directly",
+            "No equipment needed, so this one happens regardless of what's at home"
           ]
         },
         {
@@ -364,9 +368,9 @@
           "reps": "12–15",
           "rest": "75 s",
           "tempo": "3-1-1",
-          "load": "Start 12 kg (one DB)",
+          "load": "Start 12 kg (one DB) — or the EZ bar held centred if dumbbells aren't back yet",
           "muscles": ["Lats", "Chest", "Serratus"],
-          "how": "Lie on your back on the floor holding one dumbbell over your chest with both hands. Keeping a slight elbow bend, lower it back over your head until you feel a deep lat stretch, then pull it back over your chest.",
+          "how": "Lie on your back on the floor holding one dumbbell (or the EZ bar, gripped centrally) over your chest with both hands. Keeping a slight elbow bend, lower it back over your head until you feel a deep lat stretch, then pull it back over your chest.",
           "cues": [
             "Keep your ribs down and core braced so the movement comes from the shoulders, not the spine",
             "Feel the stretch through your lats and along your ribcage",
@@ -401,21 +405,23 @@
             "The neutral grip targets the brachialis, which sits under the biceps and pushes it up as it grows",
             "Alternate arms or do both together — both work",
             "No swinging; if you need momentum, the weight is too heavy"
-          ]
+          ],
+          "swap": "Dumbbells still missing? Do a 4th EZ Bar Curl set instead — wide grip, 15–20 reps as a burnout."
         },
         {
-          "name": "DB Shrug",
-          "sets": "3",
-          "reps": "15–20",
-          "rest": "60 s",
-          "tempo": "1-2-2",
-          "load": "Start 14 kg/hand",
-          "muscles": ["Traps"],
-          "how": "Stand tall holding dumbbells at your sides. Shrug your shoulders straight up toward your ears, hold the squeeze for two seconds, then lower fully.",
+          "name": "Plank to Reverse Crunch",
+          "sets": "3 rounds",
+          "reps": "45 s plank + 15 reverse crunches",
+          "rest": "45 s between rounds",
+          "tempo": "Controlled",
+          "load": "Bodyweight",
+          "muscles": ["Core"],
+          "how": "Hold a forearm plank for 45 seconds. Immediately lie on your back and do 15 reverse crunches — curl your hips off the floor bringing your knees toward your chest, then lower with control.",
           "cues": [
-            "Straight up and down — rolling your shoulders adds nothing and irritates the joint",
-            "Hold the top for a genuine two-count",
-            "Let the weights pull your shoulders all the way down at the bottom for the stretch"
+            "Keep your hips level in the plank — no sagging or piking",
+            "In the reverse crunch, curl your hips up rather than swinging your legs",
+            "Exhale as you curl up, control the lowering",
+            "Core was skipped entirely in Friday's session — this makes sure it isn't again"
           ]
         }
       ]
