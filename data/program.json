@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-08-27",
+    "generated": "2026-08-29",
     "week": 2,
-    "weekLabel": "Week 2 — Pull day finally lands (Monday's was missed); catching up back, biceps, rear delts and core"
+    "weekLabel": "Week 2 — protected rest day; Pull (back · biceps · rear delts · core) still owed after two misses"
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-08-28",
-    "dayName": "Friday",
-    "sessionId": "C",
-    "isRest": false
+    "date": "2026-08-30",
+    "dayName": "Sunday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
