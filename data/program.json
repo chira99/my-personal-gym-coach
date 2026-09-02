@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-08-29",
+    "generated": "2026-09-02",
     "week": 2,
-    "weekLabel": "Week 2 — protected rest day; Pull (back · biceps · rear delts · core) still owed after two misses"
+    "weekLabel": "Week 2 — Pull (back · biceps · rear delts · core) still zero after two misses; third attempt, trimmed for an easy restart"
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-08-30",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-03",
+    "dayName": "Thursday",
+    "sessionId": "C",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -350,7 +350,7 @@
       "name": "Pull",
       "focus": "Back · Biceps · Rear Delts",
       "accent": "pull",
-      "summary": "First LIVE Pull day of the program — Monday's Pull session was missed entirely. The three-session coverage audit found back, biceps, rear delts and core have had ZERO direct work so far, so this session leans hard into all four, with extra rear-delt and back volume to catch up fast. Built around the EZ bar and bodyweight rowing patterns since dumbbells have been missing from home — swap back in wherever noted if they've turned up.",
+      "summary": "Third attempt at Pull day — the last two scheduled Pull sessions (Aug 24 and Aug 28) were both missed, so back, biceps, rear delts and core still have zero direct work across your last three completed sessions. Trimmed down to 7 exercises this time — the only goal today is to get through the door and start set 1. Built around the EZ bar and bodyweight rowing patterns since your last log (Aug 21) noted the dumbbells weren't at home — swap back to dumbbells wherever noted if they've turned up.",
       "warmup": [
         "5 min brisk walk or skipping",
         "Band or towel pull-aparts — 20 reps",
@@ -367,7 +367,7 @@
       "exercises": [
         {
           "name": "EZ Bar Bent-Over Row",
-          "sets": "5",
+          "sets": "4",
           "reps": "10–12",
           "rest": "90 s",
           "tempo": "2-1-2",
@@ -385,7 +385,7 @@
             "Squeeze your shoulder blades together for a full second at the top",
             "The angled grips keep your wrists comfortable through the row"
           ],
-          "swap": "Dumbbells back? Do a DB Single-Arm Row instead — one hand and knee on a chair, row to your hip pocket, 10–12 reps/arm. This is your top back-building move today, hence the extra set."
+          "swap": "Dumbbells back? Do a DB Single-Arm Row instead — one hand and knee on a chair or bed, row to your hip pocket, 10–12 reps/arm."
         },
         {
           "name": "Table Inverted Row",
@@ -425,28 +425,9 @@
             "Lead with your elbows, pulling them back and slightly up — not just bending your arms",
             "Squeeze your shoulder blades together hard at the end position and hold briefly",
             "Keep your chin tucked — don't jut your neck forward to meet the towel",
-            "New today: rear delts have had zero direct work in three sessions, so this is here specifically to fix that"
+            "Rear delts have had zero direct work in your last three completed sessions — this is here specifically to fix that"
           ],
           "swap": "No door anchor? Do the movement lying face down on the floor instead, pulling elbows back and up against just the weight of your arms."
-        },
-        {
-          "name": "Bodyweight Prone Y-Raise",
-          "sets": "4",
-          "reps": "15–20",
-          "rest": "60 s",
-          "tempo": "2-1-2",
-          "load": "Bodyweight (add light dumbbells once available)",
-          "muscles": [
-            "Rear delts",
-            "Upper back"
-          ],
-          "how": "Lie face down on the floor or a bench, arms extended overhead in a wide \"Y\" shape, thumbs pointing up. Raise your arms a few inches off the ground, squeezing your shoulder blades down and together, then lower slowly.",
-          "cues": [
-            "Small range of motion — the squeeze matters more than how high you lift",
-            "Keep your neck neutral, don't crane your head up to help",
-            "Bumped to 4 sets today — rear delts are the most under-trained group in your last three sessions",
-            "No equipment needed, so this one happens regardless of what's at home"
-          ]
         },
         {
           "name": "DB Pullover",
@@ -506,7 +487,7 @@
         },
         {
           "name": "Plank to Reverse Crunch",
-          "sets": "4 rounds",
+          "sets": "3 rounds",
           "reps": "45 s plank + 15 reverse crunches",
           "rest": "45 s between rounds",
           "tempo": "Controlled",
@@ -519,7 +500,7 @@
             "Keep your hips level in the plank — no sagging or piking",
             "In the reverse crunch, curl your hips up rather than swinging your legs",
             "Exhale as you curl up, control the lowering",
-            "Core has had zero direct work across your last three sessions — bumped to 4 rounds to close that gap"
+            "Core has had zero direct work across your last three completed sessions — this closes that gap"
           ]
         }
       ]
