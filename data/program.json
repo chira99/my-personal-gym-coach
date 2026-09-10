@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-02",
-    "week": 2,
-    "weekLabel": "Week 2 — Pull (back · biceps · rear delts · core) still zero after two misses; third attempt, trimmed for an easy restart"
+    "generated": "2026-09-10",
+    "week": 3,
+    "weekLabel": "Week 3 — restart after a week with no coach check-in (last logged session was Pull, 3 Sep). No workout log data was available for the audit, so this Full Body Pump session is biased toward the groups that are easiest to lose track of — hamstrings, rear delts, calves and core — kept light so it's an easy re-entry, not a test."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-03",
-    "dayName": "Thursday",
-    "sessionId": "C",
+    "date": "2026-09-11",
+    "dayName": "Friday",
+    "sessionId": "D",
     "isRest": false
   },
   "sessions": {
@@ -510,7 +510,7 @@
       "name": "Full Body Pump",
       "focus": "Whole body · Core · Conditioning",
       "accent": "full",
-      "summary": "Shorter rest, higher reps, and a conditioning finish. This is the session that ties the week together and pushes work capacity.",
+      "summary": "Restart session after a week with no coach check-in — no workout log data was available, so this leans on the groups most likely to have been skipped: hamstrings, rear delts, calves and core. Loads are kept conservative; this is about easing back in cleanly, not testing a max.",
       "warmup": [
         "5 min skipping or brisk walk",
         "World's greatest stretch — 5 per side",
@@ -546,6 +546,25 @@
           ]
         },
         {
+          "name": "DB Romanian Deadlift",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "3-1-1",
+          "load": "Start 10 kg/hand",
+          "muscles": [
+            "Hamstrings",
+            "Glutes"
+          ],
+          "how": "Hold a dumbbell in each hand in front of your thighs, feet hip-width apart, knees very slightly bent. Push your hips straight back while keeping the dumbbells close to your legs, lowering them toward mid-shin until you feel a stretch in your hamstrings, then drive your hips forward to stand back up.",
+          "cues": [
+            "Hinge at the hips, not the knees — your knees barely bend throughout",
+            "Keep the dumbbells brushing your legs the whole way down and up",
+            "Stop the descent as soon as your lower back wants to round — that's your range for today",
+            "Squeeze your glutes hard at the top rather than leaning back"
+          ]
+        },
+        {
           "name": "DB Renegade Row",
           "sets": "3",
           "reps": "10 / side",
@@ -575,27 +594,29 @@
             "Chest",
             "Triceps"
           ],
-          "how": "As on Push day, but lighter and faster — chasing a pump rather than maximum tension.",
+          "how": "Lie on your back on the floor, knees bent, feet planted. Press the dumbbells from chest level to lockout directly over your shoulders, then lower under control until your triceps touch the floor, chasing a pump rather than maximum tension.",
           "cues": [
             "Keep the reps flowing with a brief touch at the bottom",
+            "Elbows at roughly 45° from your torso, not flared to 90°",
             "Shorter rest today; the goal is metabolic stress"
           ]
         },
         {
-          "name": "DB Goblet Squat",
+          "name": "DB Rear Delt Fly",
           "sets": "3",
-          "reps": "15",
+          "reps": "15–20",
           "rest": "60 s",
           "tempo": "2-0-2",
-          "load": "Start 12 kg",
+          "load": "Start 5 kg/hand",
           "muscles": [
-            "Quads",
-            "Glutes"
+            "Rear delts"
           ],
-          "how": "Same as Legs day, run lighter and at a steadier rhythm for volume.",
+          "how": "Hinge forward from the hips until your torso is close to parallel with the floor, knees soft, holding a light dumbbell in each hand hanging straight down. Keeping a slight bend in your elbows, raise both arms out to the sides in an arc until they're roughly in line with your shoulders, then lower with control.",
           "cues": [
-            "Stay tall through the torso even as fatigue builds",
-            "Keep the depth honest — fatigue tends to shorten range first"
+            "Lead with your elbows, not your hands — imagine pulling your elbows toward the ceiling",
+            "Keep the bend in your elbows fixed throughout; don't let it straighten or collapse",
+            "Squeeze your shoulder blades together at the top of each rep",
+            "Go lighter than feels natural — strict form beats heavier weight on this one"
           ]
         },
         {
@@ -608,27 +629,29 @@
           "muscles": [
             "Side delts"
           ],
-          "how": "High-rep burnout sets. Go lighter than you think you need to.",
+          "how": "Stand tall holding a light dumbbell in each hand at your sides. Raise both arms out to the sides until they reach shoulder height, leading with your elbows, then lower with control.",
           "cues": [
             "The burn should be considerable by rep 15",
+            "Lead with your elbows, not your hands",
             "Partial reps at the end of a set are fine here"
           ]
         },
         {
-          "name": "EZ Bar 21s",
+          "name": "Standing DB Calf Raise",
           "sets": "3",
-          "reps": "21 (7+7+7)",
-          "rest": "75 s",
-          "tempo": "Controlled",
-          "load": "Start 10 kg total",
+          "reps": "15–20",
+          "rest": "45 s",
+          "tempo": "2-1-2",
+          "load": "Start 14 kg/hand",
           "muscles": [
-            "Biceps"
+            "Calves"
           ],
-          "how": "Seven reps from full extension to halfway, then seven from halfway to the top, then seven full-range reps — all without setting the bar down.",
+          "how": "Stand tall holding a dumbbell in each hand at your sides, balancing on the balls of both feet — stand on a step or a plate if you have one so your heels can drop below your toes for extra range. Rise up onto your toes as high as possible, pause, then lower your heels down for a full stretch.",
           "cues": [
-            "Use noticeably less weight than your normal curl; 21 reps is a long set",
-            "Don't rest between the three blocks — that's what makes it work",
-            "Elbows stay pinned throughout"
+            "Pause for a full second at the top of every rep — no bouncing",
+            "Let your heels drop for a real stretch at the bottom, not just back to flat",
+            "Keep your knees soft and still; all the movement happens at the ankle",
+            "If a calf cramps, shorten the range for a rep or two rather than stopping the set"
           ]
         },
         {
