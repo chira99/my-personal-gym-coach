@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-10",
+    "generated": "2026-09-11",
     "week": 3,
-    "weekLabel": "Week 3 — restart after a week with no coach check-in (last logged session was Pull, 3 Sep). No workout log data was available for the audit, so this Full Body Pump session is biased toward the groups that are easiest to lose track of — hamstrings, rear delts, calves and core — kept light so it's an easy re-entry, not a test."
+    "weekLabel": "Week 3 — Saturday is a protected rest day and also a travel day: flight to Doha departs 20:20 tonight, connecting to Dublin overnight. No session programmed — save the legs for a proper Phase 2 session once settled in Ireland."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-11",
-    "dayName": "Friday",
-    "sessionId": "D",
-    "isRest": false
+    "date": "2026-09-12",
+    "dayName": "Saturday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
