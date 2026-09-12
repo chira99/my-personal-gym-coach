@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-11",
+    "generated": "2026-09-12",
     "week": 3,
-    "weekLabel": "Week 3 — Saturday is a protected rest day and also a travel day: flight to Doha departs 20:20 tonight, connecting to Dublin overnight. No session programmed — save the legs for a proper Phase 2 session once settled in Ireland."
+    "weekLabel": "Week 3 — Sunday is a protected rest day and also an arrival day: the QR19 connection lands in Dublin around midday after the overnight stop in Doha. No session programmed — Monday will confirm university gym access before deciding whether to stay on Phase 1 dumbbell work or move to Phase 2 barbell/machine training."
   },
   "rotation": [
     "A",
@@ -33,8 +33,8 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-12",
-    "dayName": "Saturday",
+    "date": "2026-09-13",
+    "dayName": "Sunday",
     "sessionId": "REST",
     "isRest": true
   },
@@ -679,7 +679,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Muscle is built between sessions, not during them. Today's job is to recover well.",
+      "summary": "Protected Sunday rest, and also the day you land in Dublin after an overnight connection through Doha. Muscle is built between sessions, not during them — today's job is jet lag recovery, hydration, and getting settled before Monday.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
