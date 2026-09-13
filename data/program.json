@@ -4,7 +4,7 @@
     "goal": "Build muscle (hypertrophy)",
     "level": "Intermediate — returning after a short break",
     "phase": "Phase 1 — Home Gym",
-    "phaseNote": "EZ curl bar + 2 adjustable dumbbells (max 14 kg/hand). Light load means we buy stimulus with tempo, pauses, unilateral work and short rest — not with weight on the bar.",
+    "phaseNote": "EZ curl bar + 2 adjustable dumbbells (max 14 kg/hand), still the only kit confirmed available in Dublin. University gym access hasn't been confirmed yet, so we're staying on Phase 1 for one more session — light load means we buy stimulus with tempo, pauses, unilateral work and short rest, not weight on the bar.",
     "phaseEnds": "2026-09-11",
     "nextPhase": "Phase 2 — University Gym (Ireland), full barbell + machine access",
     "sessionTime": "17:30",
@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-12",
-    "week": 3,
-    "weekLabel": "Week 3 — Sunday is a protected rest day and also an arrival day: the QR19 connection lands in Dublin around midday after the overnight stop in Doha. No session programmed — Monday will confirm university gym access before deciding whether to stay on Phase 1 dumbbell work or move to Phase 2 barbell/machine training."
+    "generated": "2026-09-13",
+    "week": 4,
+    "weekLabel": "Week 4 — first session in Dublin. Chest/front delts/side delts/triceps had the least direct work over the last three sessions, so Push leads the week. University gym access still unconfirmed — flag it to the coach as soon as it's sorted so Phase 2 barbell work can start."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-13",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-14",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "Opening session of the cycle. Week 1 is calibration — find loads where the last 2 reps are hard but clean, and stop there.",
+      "summary": "First Push day since the move to Dublin. Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that. No workout log was available to check exact loads from your last Push session, so starting loads are held at the original calibration numbers rather than progressed — log your sets this time via 'Copy log for coach' so next week can progress properly.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
