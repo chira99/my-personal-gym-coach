@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-13",
+    "generated": "2026-09-14",
     "week": 4,
-    "weekLabel": "Week 4 — first session in Dublin. Chest/front delts/side delts/triceps had the least direct work over the last three sessions, so Push leads the week. University gym access still unconfirmed — flag it to the coach as soon as it's sorted so Phase 2 barbell work can start."
+    "weekLabel": "Week 4 — second Dublin session. Legs got zero direct quad/hamstring/calf work across the last three sessions (Pull, Full Body Pump, Push), so tonight's Legs day restores that on schedule with the rotation. University gym access still unconfirmed — staying on Phase 1 dumbbells for now."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-14",
-    "dayName": "Monday",
-    "sessionId": "A",
+    "date": "2026-09-15",
+    "dayName": "Tuesday",
+    "sessionId": "B",
     "isRest": false
   },
   "sessions": {
@@ -196,7 +196,7 @@
       "name": "Legs",
       "focus": "Quads · Hamstrings · Glutes · Calves",
       "accent": "legs",
-      "summary": "With 14 kg dumbbells, single-leg work is your best friend — it effectively doubles the load per limb.",
+      "summary": "Coverage audit on your last 3 sessions (Pull, Full Body Pump, Push) found quads, hamstrings and calves got only light incidental work — Legs was next in rotation anyway, so no override needed, it just happens to land exactly where the gap is. Loads are held at your last Legs numbers (14 kg goblet squat, 14 kg/hand RDL — already at the Phase 1 ceiling, 10 kg/hand split squat and lunge, 14 kg single-leg calf raise) because no workout log was reachable to confirm you hit the top of the rep range last time. Use 'Copy log for coach' this session so next Legs day can progress properly — on the RDL specifically, once 14 kg/hand feels easy, the next step is added reps or a 2-second pause at the stretch, not more weight.",
       "warmup": [
         "5 min brisk walk or light cycling",
         "Bodyweight squats — 20 reps",
