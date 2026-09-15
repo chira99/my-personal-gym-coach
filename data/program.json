@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-14",
+    "generated": "2026-09-15",
     "week": 4,
-    "weekLabel": "Week 4 — second Dublin session. Legs got zero direct quad/hamstring/calf work across the last three sessions (Pull, Full Body Pump, Push), so tonight's Legs day restores that on schedule with the rotation. University gym access still unconfirmed — staying on Phase 1 dumbbells for now."
+    "weekLabel": "Week 4 — mid-week rest. Wednesday stays the default rest day. Coach's note: the Todoist connector was unreachable again tonight, so this run could not pull your workout logs or write a Todoist task — same gap flagged the last two nights. Please check the Todoist connection when you get a chance."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-15",
-    "dayName": "Tuesday",
-    "sessionId": "B",
-    "isRest": false
+    "date": "2026-09-16",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -679,7 +679,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Protected Sunday rest, and also the day you land in Dublin after an overnight connection through Doha. Muscle is built between sessions, not during them — today's job is jet lag recovery, hydration, and getting settled before Monday.",
+      "summary": "Default mid-week rest day. Monday's Push and Tuesday's Legs both landed as scheduled, so this is a straight recovery day, not a make-up slot — Thursday picks up with Pull. Muscle is built between sessions, not during them.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
