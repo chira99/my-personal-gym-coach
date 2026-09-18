@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-17",
+    "generated": "2026-09-18",
     "week": 4,
-    "weekLabel": "Week 4 — Full Body Pump closes out the week. Coach's note: the Todoist connector has now been unreachable for at least four nights running (flagged again tonight) — no workout log or completion status could be read, and no Todoist task could be written for tomorrow. Please check the Todoist connection when you get a chance; the full workout is still on your calendar and in this app."
+    "weekLabel": "Week 4 complete — Push, Legs, Pull and Full Body Pump all landed on schedule, Sat/Sun protected as rest. Coach's note: the Todoist connector is STILL unreachable tonight — that's five nights running now with no workout log, no completion status, and no task write access. Nothing to program tonight anyway (Saturday is a protected rest day), but this needs a look before Monday's Push session, since without Todoist the coverage audit is flying blind and no task will land in your Health project."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-18",
-    "dayName": "Friday",
-    "sessionId": "D",
-    "isRest": false
+    "date": "2026-09-19",
+    "dayName": "Saturday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -678,7 +678,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Default mid-week rest day. Monday's Push and Tuesday's Legs both landed as scheduled, so this is a straight recovery day, not a make-up slot — Thursday picks up with Pull. Muscle is built between sessions, not during them.",
+      "summary": "Protected weekend rest day. All four sessions this week (Push, Legs, Pull, Full Body Pump) landed on schedule Mon–Fri, so Saturday and Sunday stay fully off — no make-up needed. Monday picks the rotation back up with Push. Muscle is built between sessions, not during them.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
