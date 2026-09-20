@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-19",
-    "week": 4,
-    "weekLabel": "Week 4 complete — Push, Legs, Pull and Full Body Pump all landed on schedule, Sat/Sun protected as rest. Coach's note: the Todoist connector is STILL unreachable tonight — six nights running now with no workout log, no completion status, and no task write access. Monday restarts the rotation with Push; please paste your 'Copy log for coach' output into the Health project in Todoist as soon as it's reachable again so loads can actually progress instead of holding at calibration numbers."
+    "generated": "2026-09-20",
+    "week": 5,
+    "weekLabel": "Week 5 kicks off with Push. Week 4 (Push, Legs, Pull, Full Body Pump) landed on schedule Mon–Fri with Sat/Sun protected as rest — no make-up needed. Coach's note: the Todoist connector is STILL unreachable tonight, now into its second week — no workout log, no completion status, and no task write access. This isn't a one-off blip any more; it's worth checking why the Health project connection keeps failing. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-20",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-21",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "First Push day since the move to Dublin. Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that. No workout log was available to check exact loads from your last Push session, so starting loads are held at the original calibration numbers rather than progressed — log your sets this time via 'Copy log for coach' so next week can progress properly.",
+      "summary": "Week 5 opens with Push, next up in the A→B→C→D rotation after Friday's Full Body Pump. Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that; the weekend stayed fully protected as rest since all four sessions landed last week. Todoist is still unreachable, so there's no workout log to confirm your last Push numbers were hit for full reps — starting loads are held at the original calibration numbers rather than progressed. Log your sets this time via 'Copy log for coach' so next week can finally progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
