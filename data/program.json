@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-21",
+    "generated": "2026-09-22",
     "week": 5,
-    "weekLabel": "Week 5: Push landed Monday, Legs is up Tuesday. Scheduling now tracks Europe/Dublin time — the calendar confirms the move (flight to Dublin on 12–13 Sept, an IEEE lecture on UCD campus on the 18th) even though Todoist still can't confirm gym-access details. Coach's note: the Todoist connector remains completely unreachable — now 8+ consecutive nights — no workout log, no completion status, no task write access. This has gone well past a blip; the Health project connection needs to be checked. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
+    "weekLabel": "Week 5: Push (Mon) and Legs (Tue) are in, Wednesday stays the default mid-week rest — no missed-session signal, so no make-up is triggered. Coverage audit on the last three sessions (Full Body Pump, Push, Legs) found biceps got zero direct work and back/rear delts only one light hit each, while core is saturated across all three — Thursday's Pull day (next in rotation anyway) is already built to fix exactly that. Coach's note: the Todoist connector remains completely unreachable — now 9 consecutive nights — no workout log, no completion status, no task write access. This is well past a blip and needs a look at the Health project connection. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-22",
-    "dayName": "Tuesday",
-    "sessionId": "B",
-    "isRest": false
+    "date": "2026-09-23",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -678,7 +678,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Protected weekend rest day, second of two. All four sessions this week (Push, Legs, Pull, Full Body Pump) landed on schedule Mon–Fri, so the weekend stays fully off — no make-up needed. Monday picks the rotation back up with Push. Todoist has now been unreachable for six nights running, so tonight's audit is still going on calendar history alone (no set-by-set logs, no completion confirmations) — once it's back, paste your 'Copy log for coach' output in so loads can start progressing again. Muscle is built between sessions, not during them.",
+      "summary": "Default mid-week rest day. Push (Mon) and Legs (Tue) are the last two training days on record with no missed-session signal, so per the make-up rule Wednesday stays a rest day rather than being used to make up anything. Coverage audit on the last three sessions (Full Body Pump, Push, Legs) found biceps got zero direct work and back/rear delts only one light hit each — Thursday's Pull session is next in the rotation anyway and is already built to close that gap, so no override was needed. Todoist has now been unreachable for nine nights running, so this audit is still running on calendar and program history alone, with no set-by-set logs or completion confirmations — once it's reachable again, paste your 'Copy log for coach' output in so loads can start progressing past calibration numbers. Muscle is built between sessions, not during them.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
