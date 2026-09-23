@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-22",
+    "generated": "2026-09-23",
     "week": 5,
-    "weekLabel": "Week 5: Push (Mon) and Legs (Tue) are in, Wednesday stays the default mid-week rest — no missed-session signal, so no make-up is triggered. Coverage audit on the last three sessions (Full Body Pump, Push, Legs) found biceps got zero direct work and back/rear delts only one light hit each, while core is saturated across all three — Thursday's Pull day (next in rotation anyway) is already built to fix exactly that. Coach's note: the Todoist connector remains completely unreachable — now 9 consecutive nights — no workout log, no completion status, no task write access. This is well past a blip and needs a look at the Health project connection. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
+    "weekLabel": "Week 5: Push (Mon) and Legs (Tue) landed, Wednesday stayed the default mid-week rest with no missed-session signal to trigger a make-up. Coverage audit on the last three completed sessions (Full Body Pump, Push, Legs) found biceps got zero direct work and back/rear delts only one light hit each, while core was trained in all three (saturated) — today's Pull day, already next in the A→B→C→D rotation, fixes exactly that with extra rear-delt and biceps volume and zero direct core work. Coach's note: the Todoist connector remains completely unreachable — now 10 consecutive nights — no workout log, no completion status, no task write access. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-23",
-    "dayName": "Wednesday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-24",
+    "dayName": "Thursday",
+    "sessionId": "C",
+    "isRest": false
   },
   "sessions": {
     "A": {
