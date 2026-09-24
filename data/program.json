@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-22",
+    "generated": "2026-09-24",
     "week": 5,
-    "weekLabel": "Week 5: Push (Mon) and Legs (Tue) are in, Wednesday stays the default mid-week rest — no missed-session signal, so no make-up is triggered. Coverage audit on the last three sessions (Full Body Pump, Push, Legs) found biceps got zero direct work and back/rear delts only one light hit each, while core is saturated across all three — Thursday's Pull day (next in rotation anyway) is already built to fix exactly that. Coach's note: the Todoist connector remains completely unreachable — now 9 consecutive nights — no workout log, no completion status, no task write access. This is well past a blip and needs a look at the Health project connection. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
+    "weekLabel": "Week 5: Push (Mon), Legs (Tue) and Pull (Thu) are all in, Wednesday stayed the default mid-week rest since neither Mon nor Tue was missed. Coverage audit on those three completed sessions found the A→B→C rotation covering every muscle group as designed — nothing sat at zero — so Friday's Full Body Pump runs as the next rotation slot, but with Renegade Row and Rear Delt Fly swapped out for a Suitcase Carry and a second chest pump move, since back, biceps and rear delts all got direct work in Thursday's Pull session within the prior 24 hours. Side delts, only touched once in the last three sessions, get a bumped 4th set on Lateral Raise instead. Coach's note: the Todoist connector is still completely unreachable — now 11+ consecutive nights — no workout log, no completion status, no task write access. This has gone well past a blip and needs a look at the Health project connection. Please paste your 'Copy log for coach' output into Todoist as soon as it's reachable so loads can start progressing instead of holding at calibration numbers."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-23",
-    "dayName": "Wednesday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-25",
+    "dayName": "Friday",
+    "sessionId": "D",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -509,7 +509,7 @@
       "name": "Full Body Pump",
       "focus": "Whole body · Core · Conditioning",
       "accent": "full",
-      "summary": "Second Full Body Pump since the Dublin restart. Coverage audit on your last three completed sessions (Push, Legs, Pull) found no muscle group with zero direct work — the A→B→C rotation naturally covered everything — but chest, front delts and side delts only got one hit each (Push, four days ago), so this pump day gives them one more light touch while reinforcing rear delts, calves, hamstrings and core, the small groups that get skipped most easily. Todoist has now been unreachable for four nights running, so there's no workout log to confirm your last Full Body Pump numbers were hit for full reps — every load below is held exactly where it was on 11 Sept rather than progressed. Log this one with \"Copy log for coach\" so next time this session can actually move forward.",
+      "summary": "Friday's Full Body Pump, next in the A→B→C→D rotation after Thursday's Pull day. Coverage audit on the last three completed sessions (Push, Legs, Pull) found the rotation covering every muscle group as designed — nothing sat at zero — but back, biceps and rear delts all got direct work in Thursday's Pull session within the prior 24 hours, so Renegade Row and Rear Delt Fly are swapped out tonight for a Suitcase Carry and a second chest pump move to avoid re-loading them before they've recovered. Side delts, only touched once across the last three sessions, get a bumped 4th set on Lateral Raise instead. Todoist has now been unreachable for 11+ nights running, so there's no workout log to confirm your last Full Body Pump numbers were hit for full reps — every load below is held at the last confirmed number rather than progressed. Log this one with \"Copy log for coach\" so next time this session can actually move forward.",
       "warmup": [
         "5 min skipping or brisk walk",
         "World's greatest stretch — 5 per side",
@@ -564,22 +564,23 @@
           ]
         },
         {
-          "name": "DB Renegade Row",
+          "name": "DB Suitcase Carry",
           "sets": "3",
-          "reps": "10 / side",
-          "rest": "75 s",
-          "tempo": "2-1-2",
-          "load": "Start 10 kg/hand",
+          "reps": "30–40 s / side",
+          "rest": "60 s",
+          "tempo": "Steady",
+          "load": "Hold 12 kg (one DB)",
           "muscles": [
-            "Back",
-            "Core",
-            "Shoulders"
+            "Core (anti-lateral-flexion)",
+            "Grip",
+            "Traps"
           ],
-          "how": "Start in a push-up position gripping the dumbbells, feet wide for stability. Row one dumbbell to your ribs while resisting any rotation, lower it, then repeat on the other side.",
+          "how": "Hold a single dumbbell down at your side like a suitcase. Stand tall and either walk a fixed distance and back, or simply hold the position for time, resisting the pull of the weight toward that side.",
           "cues": [
-            "Widen your feet — the wider your base, the less you'll rotate",
-            "The real work is the anti-rotation, not the row itself",
-            "Keep your hips level; if they're twisting, go lighter"
+            "Keep your torso perfectly upright — don't lean toward the loaded side to compensate",
+            "Brace your core hard, as if bracing for a light punch to the stomach",
+            "Keep both shoulders level — don't let the loaded side hike up",
+            "Swapped in for Renegade Row — back and rear delts got serious direct work in Thursday's Pull session, so this avoids loading them again while still hitting core hard"
           ]
         },
         {
@@ -601,26 +602,26 @@
           ]
         },
         {
-          "name": "DB Rear Delt Fly",
+          "name": "DB Squeeze Press",
           "sets": "3",
-          "reps": "15–20",
-          "rest": "60 s",
-          "tempo": "2-0-2",
-          "load": "Start 5 kg/hand",
+          "reps": "12–15",
+          "rest": "75 s",
+          "tempo": "2-1-2",
+          "load": "Hold 8 kg/hand",
           "muscles": [
-            "Rear delts"
+            "Inner chest",
+            "Front delts"
           ],
-          "how": "Hinge forward from the hips until your torso is close to parallel with the floor, knees soft, holding a light dumbbell in each hand hanging straight down. Keeping a slight bend in your elbows, raise both arms out to the sides in an arc until they're roughly in line with your shoulders, then lower with control.",
+          "how": "Same floor press position, but press the two dumbbells hard together throughout the entire set. The inward pressure is the point — the vertical movement is almost secondary.",
           "cues": [
-            "Lead with your elbows, not your hands — imagine pulling your elbows toward the ceiling",
-            "Keep the bend in your elbows fixed throughout; don't let it straighten or collapse",
-            "Squeeze your shoulder blades together at the top of each rep",
-            "Go lighter than feels natural — strict form beats heavier weight on this one"
+            "Neutral grip, palms facing each other, dumbbells touching throughout",
+            "Drive them into each other for the whole set — if the pressure lapses, the exercise stops working",
+            "Swapped in for Rear Delt Fly — rear delts already got two direct hits in Thursday's Pull session, so tonight trades that slot for more chest pump instead"
           ]
         },
         {
           "name": "DB Lateral Raise",
-          "sets": "3",
+          "sets": "4",
           "reps": "20",
           "rest": "45 s",
           "tempo": "1-0-2",
@@ -632,7 +633,7 @@
           "cues": [
             "The burn should be considerable by rep 15",
             "Lead with your elbows, not your hands",
-            "Partial reps at the end of a set are fine here"
+            "Bumped to 4 sets — side delts only got one direct hit across your last three completed sessions"
           ]
         },
         {
