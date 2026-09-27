@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-26",
-    "week": 5,
-    "weekLabel": "Week 5 fully closes out with Sunday protected as rest — the second of two weekend rest days after all four sessions (Push, Legs, Pull, Full Body Pump) landed on their scheduled days this week, so there's no missed session and nothing to make up. Coverage audit on the last three completed sessions (Legs, Pull, Full Body Pump) found no group at zero: chest, back, front delts, side delts, biceps and triceps each got one direct hit, while quads, hamstrings, glutes, calves and core got two — nothing to correct for tonight. Monday opens Week 6 with Push, next in the A→B→C→D rotation, which already lines up with what's due. Coach's note: the Todoist connector is now unreachable for a 13th consecutive night — no workout logs, no completion confirmations, no task writes. This audit is still running on calendar/program history alone (sessions assumed completed as scheduled), and all loads stay held at last-confirmed numbers rather than progressing. Please check whether the Health project's Todoist connection needs re-authorizing, and paste 'Copy log for coach' output in as soon as it's reachable."
+    "generated": "2026-09-27",
+    "week": 6,
+    "weekLabel": "Week 6 opens with Push, next in the A→B→C→D rotation after Friday's Full Body Pump closed out Week 5 (all four sessions landed on schedule, so Sunday stayed a clean protected rest day — no make-up needed). Coverage audit on the last three completed sessions (Legs, Pull, Full Body Pump) found no group at zero, but chest, front delts, side delts and triceps came out lightest — each got only one direct or secondary hit — while quads, hamstrings, glutes, calves, core, back and rear delts each got two. Push lines up exactly with that gap, so no rotation override was needed. Coach's note: the Todoist connector is now unreachable for a 14th consecutive night — no workout logs, no completion confirmations, no task writes. This audit still runs on calendar/program history alone (sessions assumed completed as scheduled, no travel conflicts found), and all loads stay held at last-confirmed numbers rather than progressing. Please check whether the Health project's Todoist connection needs re-authorizing, and paste 'Copy log for coach' output in as soon as it's reachable."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-27",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-09-28",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "Week 5 opens with Push, next up in the A→B→C→D rotation after Friday's Full Body Pump. Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that; the weekend stayed fully protected as rest since all four sessions landed last week. Todoist is still unreachable, so there's no workout log to confirm your last Push numbers were hit for full reps — starting loads are held at the original calibration numbers rather than progressed. Log your sets this time via 'Copy log for coach' so next week can finally progress.",
+      "summary": "Week 6 opens with Push, next up in the A→B→C→D rotation after Friday's Full Body Pump closed a clean Week 5 (all four sessions landed, nothing missed). Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that directly, no rotation override needed. Biceps and rear delts already picked up solid volume from Thursday's Pull day, so nothing extra needed there tonight. Todoist has now been unreachable for 14 straight nights, so there's no workout log to confirm your last Push numbers were hit for full reps — loads below are held at the last-confirmed calibration numbers rather than progressed. Log your sets this time via 'Copy log for coach' so next Push day can finally move forward.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
