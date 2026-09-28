@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-27",
+    "generated": "2026-09-28",
     "week": 6,
-    "weekLabel": "Week 6 opens with Push, next in the A→B→C→D rotation after Friday's Full Body Pump closed out Week 5 (all four sessions landed on schedule, so Sunday stayed a clean protected rest day — no make-up needed). Coverage audit on the last three completed sessions (Legs, Pull, Full Body Pump) found no group at zero, but chest, front delts, side delts and triceps came out lightest — each got only one direct or secondary hit — while quads, hamstrings, glutes, calves, core, back and rear delts each got two. Push lines up exactly with that gap, so no rotation override was needed. Coach's note: the Todoist connector is now unreachable for a 14th consecutive night — no workout logs, no completion confirmations, no task writes. This audit still runs on calendar/program history alone (sessions assumed completed as scheduled, no travel conflicts found), and all loads stay held at last-confirmed numbers rather than progressing. Please check whether the Health project's Todoist connection needs re-authorizing, and paste 'Copy log for coach' output in as soon as it's reachable."
+    "weekLabel": "Week 6 continues with Legs on Tuesday, next in the A→B→C→D rotation after Monday's Push. Coverage audit on the last three sessions (Pull, Full Body Pump, Push) found quads, hamstrings, glutes and calves each landed only one light touch — all from Friday's Full Body Pump — so Legs being next in rotation lines up exactly with that gap; no override needed. Coach's note: the Todoist connector remains unreachable — going on three weeks now, no workout logs, no completion confirmations, no task writes. This run also found that Thursday 24 Sep and Friday 25 Sep have no local git record, meaning the routine appears to have missed running on those two nights; this audit assumes those sessions (Pull, Full Body Pump) went ahead on the default Mon/Tue/Thu/Fri schedule since no travel conflicts were found, but that assumption is unverified. Every load below stays held at last-confirmed numbers rather than progressing. Please check whether the Health project's Todoist connection needs re-authorizing, and paste 'Copy log for coach' output in as soon as it's reachable."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-28",
-    "dayName": "Monday",
-    "sessionId": "A",
+    "date": "2026-09-29",
+    "dayName": "Tuesday",
+    "sessionId": "B",
     "isRest": false
   },
   "sessions": {
@@ -196,7 +196,7 @@
       "name": "Legs",
       "focus": "Quads · Hamstrings · Glutes · Calves",
       "accent": "legs",
-      "summary": "Tuesday's Legs session, next in the A→B→C→D rotation after Monday's Push. Scheduling now tracks Europe/Dublin time — the calendar shows the flight to Dublin (12–13 Sept) and an IEEE lecture on the UCD campus on the 18th, so the move is confirmed even though gym-access details aren't. Coverage audit on the last 3 completed sessions (Pull, Full Body Pump, Push) found quads, hamstrings and calves got only light incidental work — Legs was next in rotation anyway, so no override needed, it just happens to land exactly where the gap is. Loads are held at your last Legs numbers (14 kg goblet squat, 14 kg/hand RDL — already at the Phase 1 ceiling, 10 kg/hand split squat and lunge, 14 kg single-leg calf raise) because Todoist has now been unreachable for 8+ nights running, so there's no workout log to confirm you hit the top of the rep range last time. Use 'Copy log for coach' this session so next Legs day can progress properly — on the RDL specifically, once 14 kg/hand feels easy, the next step is added reps or a 2-second pause at the stretch, not more weight.",
+      "summary": "Tuesday's Legs session, next in the A→B→C→D rotation after Monday's Push. Coverage audit on your last three sessions (Pull, Full Body Pump, Push) found quads, hamstrings, glutes and calves each got only one light touch — all from Friday's Full Body Pump — so this Legs day lines up exactly with the gap, no rotation override needed. Todoist remains unreachable (going on three weeks now), so there's still no log to confirm you hit the top of the rep range last time out — loads stay held at last-confirmed numbers (14 kg goblet squat and RDL are already at the Phase 1 ceiling; once those feel easy, the next step is added reps or a 2-second paused stretch, not more weight). Log this one with 'Copy log for coach' the moment Todoist is back so we can finally move past calibration numbers.",
       "warmup": [
         "5 min brisk walk or light cycling",
         "Bodyweight squats — 20 reps",
