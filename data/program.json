@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-28",
+    "generated": "2026-09-29",
     "week": 6,
-    "weekLabel": "Week 6 continues with Legs on Tuesday, next in the A→B→C→D rotation after Monday's Push. Coverage audit on the last three sessions (Pull, Full Body Pump, Push) found quads, hamstrings, glutes and calves each landed only one light touch — all from Friday's Full Body Pump — so Legs being next in rotation lines up exactly with that gap; no override needed. Coach's note: the Todoist connector remains unreachable — going on three weeks now, no workout logs, no completion confirmations, no task writes. This run also found that Thursday 24 Sep and Friday 25 Sep have no local git record, meaning the routine appears to have missed running on those two nights; this audit assumes those sessions (Pull, Full Body Pump) went ahead on the default Mon/Tue/Thu/Fri schedule since no travel conflicts were found, but that assumption is unverified. Every load below stays held at last-confirmed numbers rather than progressing. Please check whether the Health project's Todoist connection needs re-authorizing, and paste 'Copy log for coach' output in as soon as it's reachable."
+    "weekLabel": "Week 6 — Wednesday mid-week rest. Monday's Push and today's Legs were both scheduled and, as far as the calendar shows, done — Monday AND Tuesday completed means Wednesday stays a rest day (no make-up, no 4th consecutive-day risk). Coverage audit on the last three sessions (Full Body Pump, Push, Legs): every major group got at least one hit; back, rear delts and biceps got the least (only Friday's Full Body Pump touched them), so Thursday's Pull is the right next session. Todoist connector is still unreachable, so this rests on calendar history, not logged sets. Please paste 'Copy log for coach' output into a Todoist comment once it's back."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-29",
-    "dayName": "Tuesday",
-    "sessionId": "B",
-    "isRest": false
+    "date": "2026-09-30",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -678,7 +678,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Sunday — protected weekend rest, closing out Week 5, not a make-up day. All four sessions this week (Push Mon, Legs Tue, Pull Thu, Full Body Pump Fri) landed on schedule, so there's no missed session for Sunday to absorb. Coverage audit on the last three sessions (Legs, Pull, Full Body Pump) found no group at zero across all three: chest/back/front delts/side delts/biceps/triceps each got one direct hit, quads/hamstrings/glutes/calves/core got two. Nothing to correct for tonight — Monday's Push opens Week 6 and already targets the groups due for more volume. Todoist has now been unreachable for 13 consecutive nights, so this audit still runs on calendar history rather than logged sets — paste your 'Copy log for coach' output in as soon as it's back so loads can start progressing past calibration numbers. Muscle is built between sessions, not during them.",
+      "summary": "Wednesday — default mid-week rest. Monday (Push) and Tuesday (Legs) were both scheduled, so there is no missed session to make up; three straight training days is the limit and legs are freshly worked. Coverage audit (Full Body Pump, Push, Legs): no group at zero, but back, rear delts and biceps have had the least direct work — Thursday's Pull fixes that. Todoist is still unreachable, so this runs on calendar history rather than logged sets. Recover well: sleep and protein do the building tonight.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
