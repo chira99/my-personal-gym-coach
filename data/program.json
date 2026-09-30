@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-29",
+    "generated": "2026-09-30",
     "week": 6,
-    "weekLabel": "Week 6 — Wednesday mid-week rest. Monday's Push and today's Legs were both scheduled and, as far as the calendar shows, done — Monday AND Tuesday completed means Wednesday stays a rest day (no make-up, no 4th consecutive-day risk). Coverage audit on the last three sessions (Full Body Pump, Push, Legs): every major group got at least one hit; back, rear delts and biceps got the least (only Friday's Full Body Pump touched them), so Thursday's Pull is the right next session. Todoist connector is still unreachable, so this rests on calendar history, not logged sets. Please paste 'Copy log for coach' output into a Todoist comment once it's back."
+    "weekLabel": "Week 6 — Thursday Pull. Monday Push and Tuesday Legs were both scheduled and, per the calendar, done; Wednesday stayed a rest day. Coverage audit on the last three sessions (Full Body Pump, Push, Legs): back, biceps and rear delts got the least (only indirect hits from Friday's Full Body Pump), so Pull is the right next session with no rotation override. Todoist is unreachable, so this rests on calendar history, not logged sets. Please paste 'Copy log for coach' output into a Todoist comment once it's back."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-09-30",
-    "dayName": "Wednesday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-10-01",
+    "dayName": "Thursday",
+    "sessionId": "C",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -350,7 +350,7 @@
       "name": "Pull",
       "focus": "Back · Biceps · Rear Delts",
       "accent": "pull",
-      "summary": "Rotation lines up perfectly with what your body needs: across your last three completed sessions (Full Body Pump, Push, Legs) biceps got zero direct work, and back and rear delts only got one indirect hit each (Full Body Pump's Renegade Row and Rear Delt Fly). Pull day fixes all three directly, so no rotation override was needed — just a bias toward extra rear-delt and biceps volume within the session. No workout log was reachable (Todoist has been down for several nights), so every load is held at the last confirmed number rather than progressed — use \"Copy log for coach\" this time so next Pull day can actually progress.",
+      "summary": "Next in the rotation after Push and Legs, and it fixes the gap: across your last three sessions (Full Body Pump, Push, Legs) back, biceps and rear delts only got indirect work. Pull day covers all three directly, with extra rear-delt and biceps volume. No workout log is reachable (Todoist is down), so loads are held rather than progressed — use 'Copy log for coach' so the next Pull day can progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Band or towel pull-aparts — 20 reps",
