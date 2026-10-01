@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-09-30",
+    "generated": "2026-10-01",
     "week": 6,
-    "weekLabel": "Week 6 — Thursday Pull. Monday Push and Tuesday Legs were both scheduled and, per the calendar, done; Wednesday stayed a rest day. Coverage audit on the last three sessions (Full Body Pump, Push, Legs): back, biceps and rear delts got the least (only indirect hits from Friday's Full Body Pump), so Pull is the right next session with no rotation override. Todoist is unreachable, so this rests on calendar history, not logged sets. Please paste 'Copy log for coach' output into a Todoist comment once it's back."
+    "weekLabel": "Week 6 — Friday Full Body Pump. Push, Legs and Pull all done Mon–Thu; Full Body Pump completes the week's four. Coverage audit: chest/shoulders, hamstrings, calves and core are the lightest-hit groups, all covered here. Todoist unreachable, so this rests on calendar history, not logged sets."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-01",
-    "dayName": "Thursday",
-    "sessionId": "C",
+    "date": "2026-10-02",
+    "dayName": "Friday",
+    "sessionId": "D",
     "isRest": false
   },
   "sessions": {
@@ -509,7 +509,7 @@
       "name": "Full Body Pump",
       "focus": "Whole body · Core · Conditioning",
       "accent": "full",
-      "summary": "Second Full Body Pump since the Dublin restart. Coverage audit on your last three completed sessions (Push, Legs, Pull) found no muscle group with zero direct work — the A→B→C rotation naturally covered everything — but chest, front delts and side delts only got one hit each (Push, four days ago), so this pump day gives them one more light touch while reinforcing rear delts, calves, hamstrings and core, the small groups that get skipped most easily. Todoist has now been unreachable for four nights running, so there's no workout log to confirm your last Full Body Pump numbers were hit for full reps — every load below is held exactly where it was on 11 Sept rather than progressed. Log this one with \"Copy log for coach\" so next time this session can actually move forward.",
+      "summary": "Full Body Pump, next in the A→B→C→D rotation after Push, Legs and Pull (all three booked and, per the calendar, completed Mon–Thu). Coverage audit: no group at zero, but chest, front delts and side delts got a single hit each (Monday Push), and hamstrings, calves and core only one dedicated block (Tuesday Legs) — so this pump day tops those up along with rear delts. Back and biceps were hit hard yesterday, so they only get indirect work here. Todoist is unreachable again, so there's no log to progress from; loads are held. Use 'Copy log for coach' tonight so next week can progress.",
       "warmup": [
         "5 min skipping or brisk walk",
         "World's greatest stretch — 5 per side",
