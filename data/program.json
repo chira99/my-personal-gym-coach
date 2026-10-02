@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-01",
+    "generated": "2026-10-02",
     "week": 6,
-    "weekLabel": "Week 6 — Friday Full Body Pump. Push, Legs and Pull all done Mon–Thu; Full Body Pump completes the week's four. Coverage audit: chest/shoulders, hamstrings, calves and core are the lightest-hit groups, all covered here. Todoist unreachable, so this rests on calendar history, not logged sets."
+    "weekLabel": "Week 6 — Weekend rest. All four sessions (Push, Legs, Pull, Full Body Pump) are done; Saturday and Sunday are protected recovery days. Week 7 opens Monday with Push."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-02",
-    "dayName": "Friday",
-    "sessionId": "D",
-    "isRest": false
+    "date": "2026-10-03",
+    "dayName": "Saturday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -678,7 +678,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Wednesday — default mid-week rest. Monday (Push) and Tuesday (Legs) were both scheduled, so there is no missed session to make up; three straight training days is the limit and legs are freshly worked. Coverage audit (Full Body Pump, Push, Legs): no group at zero, but back, rear delts and biceps have had the least direct work — Thursday's Pull fixes that. Todoist is still unreachable, so this runs on calendar history rather than logged sets. Recover well: sleep and protein do the building tonight.",
+      "summary": "Saturday — weekend rest. Week 6 is complete: Push, Legs, Pull and Full Body Pump all landed Mon–Fri, so there is nothing to make up and weekends stay protected. Coverage audit (Legs, Pull, Full Body Pump): no group at zero; chest, front delts and triceps got the least direct work, so Monday's Push targets them. Todoist is still unreachable, so this rests on calendar history rather than logged sets. Enjoy the time off — sleep and protein do the building.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
