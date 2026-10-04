@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-03",
-    "week": 6,
-    "weekLabel": "Week 6 — Weekend rest. All four sessions done; Sunday is protected recovery. Week 7 opens Monday with Push."
+    "generated": "2026-10-04",
+    "week": 7,
+    "weekLabel": "Week 7 — Push opens the week. Loads held until a log confirms top-of-range reps."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-04",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-10-05",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "Week 6 opens with Push, next up in the A→B→C→D rotation after Friday's Full Body Pump closed a clean Week 5 (all four sessions landed, nothing missed). Over your last three completed sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work — this session corrects that directly, no rotation override needed. Biceps and rear delts already picked up solid volume from Thursday's Pull day, so nothing extra needed there tonight. Todoist has now been unreachable for 14 straight nights, so there's no workout log to confirm your last Push numbers were hit for full reps — loads below are held at the last-confirmed calibration numbers rather than progressed. Log your sets this time via 'Copy log for coach' so next Push day can finally move forward.",
+      "summary": "Week 7 opens with Push, next in the A→B→C→D rotation after Friday's Full Body Pump closed Week 6 with all four sessions done. Over the last three sessions (Legs, Pull, Full Body Pump) chest, front delts, side delts and triceps got the least direct work, so this session corrects that — no rotation override. Biceps and rear delts are covered by Thursday's Pull, so nothing extra. Todoist has been unreachable again, so there's no log to confirm last Push's reps: loads are held, aim for one more rep per set. Use 'Copy log for coach' so Push can finally progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
