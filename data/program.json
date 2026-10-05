@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-04",
+    "generated": "2026-10-05",
     "week": 7,
-    "weekLabel": "Week 7 — Push opens the week. Loads held until a log confirms top-of-range reps."
+    "weekLabel": "Week 7 — Legs on Tuesday. Loads held until a log confirms top-of-range reps."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-05",
-    "dayName": "Monday",
-    "sessionId": "A",
+    "date": "2026-10-06",
+    "dayName": "Tuesday",
+    "sessionId": "B",
     "isRest": false
   },
   "sessions": {
@@ -196,7 +196,7 @@
       "name": "Legs",
       "focus": "Quads · Hamstrings · Glutes · Calves",
       "accent": "legs",
-      "summary": "Tuesday's Legs session, next in the A→B→C→D rotation after Monday's Push. Coverage audit on your last three sessions (Pull, Full Body Pump, Push) found quads, hamstrings, glutes and calves each got only one light touch — all from Friday's Full Body Pump — so this Legs day lines up exactly with the gap, no rotation override needed. Todoist remains unreachable (going on three weeks now), so there's still no log to confirm you hit the top of the rep range last time out — loads stay held at last-confirmed numbers (14 kg goblet squat and RDL are already at the Phase 1 ceiling; once those feel easy, the next step is added reps or a 2-second paused stretch, not more weight). Log this one with 'Copy log for coach' the moment Todoist is back so we can finally move past calibration numbers.",
+      "summary": "Tuesday's Legs session, next in the A→B→C→D rotation after Monday's Push. Coverage audit on the last three sessions (Pull, Full Body Pump, Push): quads, hamstrings, glutes, calves and core each got only one touch — all from Friday's Full Body Pump — so Legs lines up exactly with the gap, no rotation override. Chest, shoulders and triceps are fresh from Monday, so nothing pressing today. Todoist is still unreachable, so there's no log to confirm top-of-range reps: loads are held, aim for one more rep per set (14 kg goblet squat and RDL are at the Phase 1 ceiling — progress with reps or a 2-second paused stretch). Use 'Copy log for coach' after the session.",
       "warmup": [
         "5 min brisk walk or light cycling",
         "Bodyweight squats — 20 reps",
