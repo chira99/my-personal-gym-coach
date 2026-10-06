@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-05",
+    "generated": "2026-10-06",
     "week": 7,
-    "weekLabel": "Week 7 — Legs on Tuesday. Loads held until a log confirms top-of-range reps."
+    "weekLabel": "Week 7 — Wednesday rest. Push (Mon) and Legs (Tue) done; Pull is next on Thursday."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-06",
-    "dayName": "Tuesday",
-    "sessionId": "B",
-    "isRest": false
+    "date": "2026-10-07",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
