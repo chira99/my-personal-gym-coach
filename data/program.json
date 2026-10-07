@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-06",
+    "generated": "2026-10-07",
     "week": 7,
-    "weekLabel": "Week 7 — Wednesday rest. Push (Mon) and Legs (Tue) done; Pull is next on Thursday."
+    "weekLabel": "Week 7 — Thursday: Pull. Push (Mon) and Legs (Tue) done; Full Body Friday."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-07",
-    "dayName": "Wednesday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-10-08",
+    "dayName": "Thursday",
+    "sessionId": "C",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -350,7 +350,7 @@
       "name": "Pull",
       "focus": "Back · Biceps · Rear Delts",
       "accent": "pull",
-      "summary": "Next in the rotation after Push and Legs, and it fixes the gap: across your last three sessions (Full Body Pump, Push, Legs) back, biceps and rear delts only got indirect work. Pull day covers all three directly, with extra rear-delt and biceps volume. No workout log is reachable (Todoist is down), so loads are held rather than progressed — use 'Copy log for coach' so the next Pull day can progress.",
+      "summary": "Pull day: Push (Mon) and Legs (Tue) are done, so back, biceps and rear delts are due. Todoist was unreachable again, so there is no log to read and loads are held rather than progressed — paste 'Copy log for coach' into the Todoist task so the next Pull can progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Band or towel pull-aparts — 20 reps",
