@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-07",
+    "generated": "2026-10-08",
     "week": 7,
-    "weekLabel": "Week 7 — Thursday: Pull. Push (Mon) and Legs (Tue) done; Full Body Friday."
+    "weekLabel": "Week 7 — Friday: Full Body Pump. Push (Mon), Legs (Tue), Pull (Thu) done; weekend off."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-08",
-    "dayName": "Thursday",
-    "sessionId": "C",
+    "date": "2026-10-09",
+    "dayName": "Friday",
+    "sessionId": "D",
     "isRest": false
   },
   "sessions": {
@@ -509,7 +509,7 @@
       "name": "Full Body Pump",
       "focus": "Whole body · Core · Conditioning",
       "accent": "full",
-      "summary": "Full Body Pump, next in the A→B→C→D rotation after Push, Legs and Pull (all three booked and, per the calendar, completed Mon–Thu). Coverage audit: no group at zero, but chest, front delts and side delts got a single hit each (Monday Push), and hamstrings, calves and core only one dedicated block (Tuesday Legs) — so this pump day tops those up along with rear delts. Back and biceps were hit hard yesterday, so they only get indirect work here. Todoist is unreachable again, so there's no log to progress from; loads are held. Use 'Copy log for coach' tonight so next week can progress.",
+      "summary": "Full Body Pump closes Week 7, next in the A→B→C→D rotation after Pull. Coverage audit over Push (Mon), Legs (Tue), Pull (Thu), assuming all were completed (Todoist unreachable, no log): no group at zero. Chest, front/side delts and triceps got one hit (Monday); hamstrings, calves and core one dedicated block (Tuesday), so this pump day tops those up. Back, biceps and rear delts were trained yesterday, so back only gets indirect work (renegade row) and rear delts light volume. Loads held; log sets and use 'Copy log for coach' so next week can progress.",
       "warmup": [
         "5 min skipping or brisk walk",
         "World's greatest stretch — 5 per side",
