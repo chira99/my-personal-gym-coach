@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-08",
+    "generated": "2026-10-09",
     "week": 7,
-    "weekLabel": "Week 7 — Friday: Full Body Pump. Push (Mon), Legs (Tue), Pull (Thu) done; weekend off."
+    "weekLabel": "Week 7 complete — Saturday: weekend rest. Push (Mon), Legs (Tue), Pull (Thu), Full Body Pump (Fri) done; Monday starts Week 8 with Push."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-09",
-    "dayName": "Friday",
-    "sessionId": "D",
-    "isRest": false
+    "date": "2026-10-10",
+    "dayName": "Saturday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -678,7 +678,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Sunday — weekend rest. Week 6 is complete (Push, Legs, Pull, Full Body Pump all landed), so nothing to make up and weekends stay protected. Monday opens Week 7 with Push, which targets chest, front delts and triceps. Todoist is still unreachable, so this rests on calendar history rather than logged sets. Sleep and protein do the building.",
+      "summary": "Saturday — weekend rest. Week 7's four sessions (Push, Legs, Pull, Full Body Pump) are all done, so there is nothing to make up and weekends stay protected. Monday opens Week 8 with Push. Sleep and protein do the building.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
