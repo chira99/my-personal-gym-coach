@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-12",
+    "generated": "2026-10-13",
     "week": 8,
-    "weekLabel": "Week 8 — Monday: Push opens the week. Hold loads, chase one more rep per set."
+    "weekLabel": "Week 8 — Tuesday: Legs. Hold loads, chase one more rep per set."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-12",
-    "dayName": "Monday",
-    "sessionId": "A",
+    "date": "2026-10-13",
+    "dayName": "Tuesday",
+    "sessionId": "B",
     "isRest": false
   },
   "sessions": {
