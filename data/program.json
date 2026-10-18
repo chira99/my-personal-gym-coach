@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-17",
-    "week": 8,
-    "weekLabel": "Week 8 — Sunday: weekend rest. Week 9 opens Monday with Push."
+    "generated": "2026-10-18",
+    "week": 9,
+    "weekLabel": "Week 9 — Monday: Push opens the week"
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-18",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-10-19",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "Week 8 opens with Push, next in the A→B→C→D rotation after Friday's Full Body Pump closed Week 7 with all four sessions done. Coverage audit over Legs (Tue), Pull (Thu), Full Body Pump (Fri), assuming all completed (Todoist unreachable, no log): chest, front/side delts and triceps got only incidental work, so Push corrects that — no rotation override. Quads, hamstrings, glutes, calves, core, back, biceps and rear delts all got hits this week; nothing extra needed. Loads are held and the aim is one more rep per set; paste 'Copy log for coach' into the Todoist task so Push can progress.",
+      "summary": "Week 9 opens with Push, next in the rotation after Friday's Full Body Pump. Coverage over Legs (Tue), Pull (Thu) and Full Body (Fri) shows chest, front/side delts and triceps only got incidental work, so Push corrects that; everything else was hit this week. Loads held, aim for one more rep per set — paste 'Copy log for coach' into the Todoist task so Push can progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
