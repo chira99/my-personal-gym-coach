@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-18",
+    "generated": "2026-10-19",
     "week": 9,
-    "weekLabel": "Week 9 — Monday: Push opens the week"
+    "weekLabel": "Week 9 — Tuesday: Legs"
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-19",
-    "dayName": "Monday",
-    "sessionId": "A",
+    "date": "2026-10-20",
+    "dayName": "Tuesday",
+    "sessionId": "B",
     "isRest": false
   },
   "sessions": {
@@ -196,7 +196,7 @@
       "name": "Legs",
       "focus": "Quads · Hamstrings · Glutes · Calves",
       "accent": "legs",
-      "summary": "Tuesday's Legs session, next in the A→B→C→D rotation after Monday's Push. Coverage audit on the last three sessions (Pull, Full Body Pump, Push): quads, hamstrings, glutes, calves and core each got only one touch — all from Friday's Full Body Pump — so Legs lines up exactly with the gap, no rotation override. Chest, shoulders and triceps are fresh from Monday, so nothing pressing today. Todoist is still unreachable, so there's no log to confirm top-of-range reps: loads are held, aim for one more rep per set (14 kg goblet squat and RDL are at the Phase 1 ceiling — progress with reps or a 2-second paused stretch). Use 'Copy log for coach' after the session.",
+      "summary": "Tuesday's Legs, next in the rotation after Monday's Push. Across Pull (Thu), Full Body (Fri) and Push (Mon), quads, hamstrings, glutes and calves only got incidental work in the Full Body session, so a full Legs day is the right correction. Upper body is fully rested. Loads held — aim for one more rep per set. Paste 'Copy log for coach' into the Todoist task so I can progress loads.",
       "warmup": [
         "5 min brisk walk or light cycling",
         "Bodyweight squats — 20 reps",
