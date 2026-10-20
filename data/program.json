@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-19",
+    "generated": "2026-10-20",
     "week": 9,
-    "weekLabel": "Week 9 — Tuesday: Legs"
+    "weekLabel": "Week 9 — Wednesday: mid-week rest. Thu Pull, Fri Full Body Pump to come."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-20",
-    "dayName": "Tuesday",
-    "sessionId": "B",
-    "isRest": false
+    "date": "2026-10-21",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -679,7 +679,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Sunday — weekend rest. Week 8's four sessions are all done and weekends stay protected. Monday opens Week 9 with Push. Sleep and protein do the building.",
+      "summary": "Wednesday — mid-week rest. Push (Mon) and Legs (Tue) are done, so there is nothing to make up and three-in-a-row is avoided. Thursday is Pull, Friday is Full Body Pump. Sleep and protein do the building.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
