@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-21",
+    "generated": "2026-10-22",
     "week": 9,
-    "weekLabel": "Week 9 — Thursday: Pull. Fri Full Body Pump to come."
+    "weekLabel": "Week 9 — Friday: Full Body Pump. Weekend rest."
   },
   "rotation": [
     "A",
@@ -33,9 +33,9 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-22",
-    "dayName": "Thursday",
-    "sessionId": "C",
+    "date": "2026-10-23",
+    "dayName": "Friday",
+    "sessionId": "D",
     "isRest": false
   },
   "sessions": {
