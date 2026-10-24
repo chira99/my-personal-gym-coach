@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-22",
+    "generated": "2026-10-24",
     "week": 9,
-    "weekLabel": "Week 9 — Friday: Full Body Pump. Weekend rest."
+    "weekLabel": "Week 9 — Sunday: Weekend rest. Monday: Push."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-23",
-    "dayName": "Friday",
-    "sessionId": "D",
-    "isRest": false
+    "date": "2026-10-25",
+    "dayName": "Sunday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
@@ -679,7 +679,7 @@
       "name": "Rest Day",
       "focus": "Recovery",
       "accent": "rest",
-      "summary": "Wednesday — mid-week rest. Push (Mon) and Legs (Tue) are done, so there is nothing to make up and three-in-a-row is avoided. Thursday is Pull, Friday is Full Body Pump. Sleep and protein do the building.",
+      "summary": "Sunday — weekend rest, protected. Full Body Pump closed out the week on Friday. Monday restarts the rotation with Push. Sleep and protein do the building.",
       "warmup": [],
       "cooldown": [],
       "exercises": [
