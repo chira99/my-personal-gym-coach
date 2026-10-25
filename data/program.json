@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-24",
-    "week": 9,
-    "weekLabel": "Week 9 — Sunday: Weekend rest. Monday: Push."
+    "generated": "2026-10-25",
+    "week": 10,
+    "weekLabel": "Week 10 — Monday: Push. Chest, side delts and triceps first."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-25",
-    "dayName": "Sunday",
-    "sessionId": "REST",
-    "isRest": true
+    "date": "2026-10-26",
+    "dayName": "Monday",
+    "sessionId": "A",
+    "isRest": false
   },
   "sessions": {
     "A": {
@@ -44,7 +44,7 @@
       "name": "Push",
       "focus": "Chest · Shoulders · Triceps",
       "accent": "push",
-      "summary": "Week 9 opens with Push, next in the rotation after Friday's Full Body Pump. Coverage over Legs (Tue), Pull (Thu) and Full Body (Fri) shows chest, front/side delts and triceps only got incidental work, so Push corrects that; everything else was hit this week. Loads held, aim for one more rep per set — paste 'Copy log for coach' into the Todoist task so Push can progress.",
+      "summary": "Week 10 opens with Push, next in the rotation after Friday's Full Body Pump. Last three sessions (Legs, Pull, Full Body) gave chest, front/side delts and triceps only incidental work, so Push corrects that. Loads held — aim for one more rep per set. Paste 'Copy log for coach' into the Todoist task comment so Push can progress.",
       "warmup": [
         "5 min brisk walk or skipping to raise core temperature",
         "Arm circles — 15 forward, 15 backward",
