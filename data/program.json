@@ -22,9 +22,9 @@
       "Sun"
     ],
     "restDay": "Wednesday",
-    "generated": "2026-10-25",
+    "generated": "2026-10-27",
     "week": 10,
-    "weekLabel": "Week 10 — Monday: Push. Chest, side delts and triceps first."
+    "weekLabel": "Week 10 — Wednesday: mid-week rest. Back to training Thursday."
   },
   "rotation": [
     "A",
@@ -33,10 +33,10 @@
     "D"
   ],
   "today": {
-    "date": "2026-10-26",
-    "dayName": "Monday",
-    "sessionId": "A",
-    "isRest": false
+    "date": "2026-10-28",
+    "dayName": "Wednesday",
+    "sessionId": "REST",
+    "isRest": true
   },
   "sessions": {
     "A": {
